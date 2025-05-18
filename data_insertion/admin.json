@@ -1,0 +1,14 @@
+[
+  {
+    "id": "AD0000001",
+    "first_name": "Nimal",
+    "last_name": "Perera",
+    "username": "nimal123",
+    "email": "nimal.perera@example.com",
+    "telephone": "+94712345678",
+    "position": "Administration",
+    "role": "admin",
+    "hashed_password": "test123",
+    "subjects": []
+  }
+]

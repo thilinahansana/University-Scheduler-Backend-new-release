@@ -1,0 +1,47 @@
+[
+  {
+    "name": "P1",
+    "long_name": "08.30 - 09.29",
+    "is_interval": false
+  },
+  {
+    "name": "P2",
+    "long_name": "09.30 - 10.29",
+    "is_interval": false
+  },
+  {
+    "name": "P3",
+    "long_name": "10.30 - 11.29",
+    "is_interval": false
+  },
+  {
+    "name": "P4",
+    "long_name": "11.30 - 12.29",
+    "is_interval": false
+  },
+  {
+    "name": "P5",
+    "long_name": "12.30 - 13.29",
+    "is_interval": true
+  },
+  {
+    "name": "P6",
+    "long_name": "13.30 - 14.29",
+    "is_interval": false
+  },
+  {
+    "name": "P7",
+    "long_name": "14.30 - 15.29",
+    "is_interval": false
+  },
+  {
+    "name": "P8",
+    "long_name": "15.30 - 16.29",
+    "is_interval": false
+  },
+  {
+    "name": "P9",
+    "long_name": "16.30 - 17.29",
+    "is_interval": false
+  }
+]

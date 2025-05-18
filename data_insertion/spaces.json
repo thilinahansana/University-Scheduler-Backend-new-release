@@ -1,0 +1,2158 @@
+[
+  {
+    "name": "A401",
+    "long_name": "Main Lecture Hall A401",
+    "code": "LH401",
+    "capacity": 250,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "A501",
+    "long_name": "Main Lecture Hall A501",
+    "code": "LH501",
+    "capacity": 300,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "B501",
+    "long_name": "Computer Lab B501",
+    "code": "LABB501",
+    "capacity": 100,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "B502",
+    "long_name": "Computer Lab B502",
+    "code": "LABB502",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "C101",
+    "long_name": "Lecture Hall C101",
+    "code": "LHC101",
+    "capacity": 250,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "C102",
+    "long_name": "Lecture Hall C102",
+    "code": "LHC102",
+    "capacity": 300,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "D501",
+    "long_name": "Computer Lab D501",
+    "code": "LABD501",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "D502",
+    "long_name": "Computer Lab D502",
+    "code": "LABD502",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "E101",
+    "long_name": "Lecture Hall E101",
+    "code": "LHE101",
+    "capacity": 150,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "E102",
+    "long_name": "Lecture Hall E102",
+    "code": "LHE102",
+    "capacity": 200,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "F501",
+    "long_name": "Computer Lab F501",
+    "code": "LABF501",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "F502",
+    "long_name": "Computer Lab F502",
+    "code": "LABF502",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "G101",
+    "long_name": "Lecture Hall G101",
+    "code": "LHG101",
+    "capacity": 270,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "G102",
+    "long_name": "Lecture Hall G102",
+    "code": "LHG102",
+    "capacity": 160,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "H501",
+    "long_name": "Computer Lab H501",
+    "code": "LABH501",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "H502",
+    "long_name": "Computer Lab H502",
+    "code": "LABH502",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "I101",
+    "long_name": "Lecture Hall I101",
+    "code": "LHI101",
+    "capacity": 190,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "I102",
+    "long_name": "Lecture Hall I102",
+    "code": "LHI102",
+    "capacity": 210,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "J501",
+    "long_name": "Computer Lab J501",
+    "code": "LABJ501",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "J502",
+    "long_name": "Computer Lab J502",
+    "code": "LABJ502",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "K101",
+    "long_name": "Lecture Hall K101",
+    "code": "LHK101",
+    "capacity": 300,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "K102",
+    "long_name": "Lecture Hall K102",
+    "code": "LHK102",
+    "capacity": 170,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "L501",
+    "long_name": "Computer Lab L501",
+    "code": "LABL501",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "L502",
+    "long_name": "Computer Lab L502",
+    "code": "LABL502",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "M101",
+    "long_name": "Lecture Hall M101",
+    "code": "LHM101",
+    "capacity": 150,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "M102",
+    "long_name": "Lecture Hall M102",
+    "code": "LHM102",
+    "capacity": 250,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "N501",
+    "long_name": "Computer Lab N501",
+    "code": "LABN501",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "N502",
+    "long_name": "Computer Lab N502",
+    "code": "LABN502",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "O101",
+    "long_name": "Lecture Hall O101",
+    "code": "LHO101",
+    "capacity": 250,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "O102",
+    "long_name": "Lecture Hall O102",
+    "code": "LHO102",
+    "capacity": 300,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "P501",
+    "long_name": "Computer Lab P501",
+    "code": "LABP501",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "P502",
+    "long_name": "Computer Lab P502",
+    "code": "LABP502",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "Q101",
+    "long_name": "Lecture Hall Q101",
+    "code": "LHQ101",
+    "capacity": 200,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "Q102",
+    "long_name": "Lecture Hall Q102",
+    "code": "LHQ102",
+    "capacity": 150,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "R501",
+    "long_name": "Computer Lab R501",
+    "code": "LABR501",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "R502",
+    "long_name": "Computer Lab R502",
+    "code": "LABR502",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "S101",
+    "long_name": "Lecture Hall S101",
+    "code": "LHS101",
+    "capacity": 300,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "S102",
+    "long_name": "Lecture Hall S102",
+    "code": "LHS102",
+    "capacity": 180,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "T501",
+    "long_name": "Computer Lab T501",
+    "code": "LABT501",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "T502",
+    "long_name": "Computer Lab T502",
+    "code": "LABT502",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "U101",
+    "long_name": "Lecture Hall U101",
+    "code": "LHU101",
+    "capacity": 150,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "U102",
+    "long_name": "Lecture Hall U102",
+    "code": "LHU102",
+    "capacity": 250,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "V501",
+    "long_name": "Computer Lab V501",
+    "code": "LABV501",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "V502",
+    "long_name": "Computer Lab V502",
+    "code": "LABV502",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "W101",
+    "long_name": "Lecture Hall W101",
+    "code": "LHW101",
+    "capacity": 200,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "W102",
+    "long_name": "Lecture Hall W102",
+    "code": "LHW102",
+    "capacity": 150,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "X501",
+    "long_name": "Computer Lab X501",
+    "code": "LABX501",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "X502",
+    "long_name": "Computer Lab X502",
+    "code": "LABX502",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "Y101",
+    "long_name": "Lecture Hall Y101",
+    "code": "LHY101",
+    "capacity": 300,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "Y102",
+    "long_name": "Lecture Hall Y102",
+    "code": "LHY102",
+    "capacity": 250,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "Z501",
+    "long_name": "Computer Lab Z501",
+    "code": "LABZ501",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "Z502",
+    "long_name": "Computer Lab Z502",
+    "code": "LABZ502",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "AA101",
+    "long_name": "Lecture Hall AA101",
+    "code": "LHAA101",
+    "capacity": 200,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "AA102",
+    "long_name": "Lecture Hall AA102",
+    "code": "LHAA102",
+    "capacity": 150,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "AB501",
+    "long_name": "Computer Lab AB501",
+    "code": "LABAB501",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "AB502",
+    "long_name": "Computer Lab AB502",
+    "code": "LABAB502",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "AC101",
+    "long_name": "Lecture Hall AC101",
+    "code": "LHAC101",
+    "capacity": 250,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "AC102",
+    "long_name": "Lecture Hall AC102",
+    "code": "LHAC102",
+    "capacity": 300,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "AD501",
+    "long_name": "Computer Lab AD501",
+    "code": "LABAD501",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "AD502",
+    "long_name": "Computer Lab AD502",
+    "code": "LABAD502",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "AE101",
+    "long_name": "Lecture Hall AE101",
+    "code": "LHAE101",
+    "capacity": 250,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "AE102",
+    "long_name": "Lecture Hall AE102",
+    "code": "LHAE102",
+    "capacity": 300,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "AF501",
+    "long_name": "Computer Lab AF501",
+    "code": "LABAF501",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "AF502",
+    "long_name": "Computer Lab AF502",
+    "code": "LABAF502",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "AG101",
+    "long_name": "Lecture Hall AG101",
+    "code": "LHAG101",
+    "capacity": 150,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "AG102",
+    "long_name": "Lecture Hall AG102",
+    "code": "LHAG102",
+    "capacity": 200,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "AH501",
+    "long_name": "Computer Lab AH501",
+    "code": "LABAH501",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "AH502",
+    "long_name": "Computer Lab AH502",
+    "code": "LABAH502",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "AI101",
+    "long_name": "Lecture Hall AI101",
+    "code": "LHAI101",
+    "capacity": 270,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "AI102",
+    "long_name": "Lecture Hall AI102",
+    "code": "LHAI102",
+    "capacity": 160,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "AJ501",
+    "long_name": "Computer Lab AJ501",
+    "code": "LABAJ501",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "AJ502",
+    "long_name": "Computer Lab AJ502",
+    "code": "LABAJ502",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "AK101",
+    "long_name": "Lecture Hall AK101",
+    "code": "LHAK101",
+    "capacity": 190,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "AK102",
+    "long_name": "Lecture Hall AK102",
+    "code": "LHAK102",
+    "capacity": 210,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "AL501",
+    "long_name": "Computer Lab AL501",
+    "code": "LABAL501",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "AL502",
+    "long_name": "Computer Lab AL502",
+    "code": "LABAL502",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "AM101",
+    "long_name": "Lecture Hall AM101",
+    "code": "LHAM101",
+    "capacity": 300,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "AM102",
+    "long_name": "Lecture Hall AM102",
+    "code": "LHAM102",
+    "capacity": 170,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "AN501",
+    "long_name": "Computer Lab AN501",
+    "code": "LABAN501",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "AN502",
+    "long_name": "Computer Lab AN502",
+    "code": "LABAN502",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "AO101",
+    "long_name": "Lecture Hall AO101",
+    "code": "LHAO101",
+    "capacity": 150,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "AO102",
+    "long_name": "Lecture Hall AO102",
+    "code": "LHAO102",
+    "capacity": 250,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "AP501",
+    "long_name": "Computer Lab AP501",
+    "code": "LABAP501",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "AP502",
+    "long_name": "Computer Lab AP502",
+    "code": "LABAP502",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "AQ101",
+    "long_name": "Lecture Hall AQ101",
+    "code": "LHAQ101",
+    "capacity": 250,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "AQ102",
+    "long_name": "Lecture Hall AQ102",
+    "code": "LHAQ102",
+    "capacity": 300,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "AR501",
+    "long_name": "Computer Lab AR501",
+    "code": "LABAR501",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "AR502",
+    "long_name": "Computer Lab AR502",
+    "code": "LABAR502",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "AS101",
+    "long_name": "Lecture Hall AS101",
+    "code": "LHAS101",
+    "capacity": 200,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "AS102",
+    "long_name": "Lecture Hall AS102",
+    "code": "LHAS102",
+    "capacity": 150,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "AT501",
+    "long_name": "Computer Lab AT501",
+    "code": "LABAT501",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "AT502",
+    "long_name": "Computer Lab AT502",
+    "code": "LABAT502",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "AU101",
+    "long_name": "Lecture Hall AU101",
+    "code": "LHAU101",
+    "capacity": 300,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "AU102",
+    "long_name": "Lecture Hall AU102",
+    "code": "LHAU102",
+    "capacity": 180,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "AV501",
+    "long_name": "Computer Lab AV501",
+    "code": "LABAV501",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "AV502",
+    "long_name": "Computer Lab AV502",
+    "code": "LABAV502",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "AW101",
+    "long_name": "Lecture Hall AW101",
+    "code": "LHAW101",
+    "capacity": 150,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "AW102",
+    "long_name": "Lecture Hall AW102",
+    "code": "LHAW102",
+    "capacity": 250,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "AX501",
+    "long_name": "Computer Lab AX501",
+    "code": "LABAX501",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "AX502",
+    "long_name": "Computer Lab AX502",
+    "code": "LABAX502",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "AY101",
+    "long_name": "Lecture Hall AY101",
+    "code": "LHAY101",
+    "capacity": 200,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "AY102",
+    "long_name": "Lecture Hall AY102",
+    "code": "LHAY102",
+    "capacity": 150,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "AZ501",
+    "long_name": "Computer Lab AZ501",
+    "code": "LABAZ501",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "AZ502",
+    "long_name": "Computer Lab AZ502",
+    "code": "LABAZ502",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "BA101",
+    "long_name": "Lecture Hall BA101",
+    "code": "LHBA101",
+    "capacity": 300,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "BA102",
+    "long_name": "Lecture Hall BA102",
+    "code": "LHBA102",
+    "capacity": 250,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "BB501",
+    "long_name": "Computer Lab BB501",
+    "code": "LABBB501",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "BB502",
+    "long_name": "Computer Lab BB502",
+    "code": "LABBB502",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "BC101",
+    "long_name": "Lecture Hall BC101",
+    "code": "LHBC101",
+    "capacity": 250,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "BC102",
+    "long_name": "Lecture Hall BC102",
+    "code": "LHBC102",
+    "capacity": 300,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "BD501",
+    "long_name": "Computer Lab BD501",
+    "code": "LABBD501",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "BD502",
+    "long_name": "Computer Lab BD502",
+    "code": "LABBD502",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "BE101",
+    "long_name": "Lecture Hall BE101",
+    "code": "LHBE101",
+    "capacity": 250,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "BE102",
+    "long_name": "Lecture Hall BE102",
+    "code": "LHBE102",
+    "capacity": 300,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "BF501",
+    "long_name": "Computer Lab BF501",
+    "code": "LABBF501",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "BF502",
+    "long_name": "Computer Lab BF502",
+    "code": "LABBF502",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "BG101",
+    "long_name": "Lecture Hall BG101",
+    "code": "LHBG101",
+    "capacity": 150,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "BG102",
+    "long_name": "Lecture Hall BG102",
+    "code": "LHBG102",
+    "capacity": 200,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "BH501",
+    "long_name": "Computer Lab BH501",
+    "code": "LABBH501",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "BH502",
+    "long_name": "Computer Lab BH502",
+    "code": "LABBH502",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "BI101",
+    "long_name": "Lecture Hall BI101",
+    "code": "LHBI101",
+    "capacity": 270,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "BI102",
+    "long_name": "Lecture Hall BI102",
+    "code": "LHBI102",
+    "capacity": 160,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "BJ501",
+    "long_name": "Computer Lab BJ501",
+    "code": "LABBJ501",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "BJ502",
+    "long_name": "Computer Lab BJ502",
+    "code": "LABBJ502",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "BK101",
+    "long_name": "Lecture Hall BK101",
+    "code": "LHBK101",
+    "capacity": 190,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "BK102",
+    "long_name": "Lecture Hall BK102",
+    "code": "LHBK102",
+    "capacity": 210,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "BL501",
+    "long_name": "Computer Lab BL501",
+    "code": "LABBL501",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "BL502",
+    "long_name": "Computer Lab BL502",
+    "code": "LABBL502",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "BM101",
+    "long_name": "Lecture Hall BM101",
+    "code": "LHBM101",
+    "capacity": 300,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "BM102",
+    "long_name": "Lecture Hall BM102",
+    "code": "LHBM102",
+    "capacity": 170,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "BN501",
+    "long_name": "Computer Lab BN501",
+    "code": "LABBN501",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "BN502",
+    "long_name": "Computer Lab BN502",
+    "code": "LABBN502",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "BO101",
+    "long_name": "Lecture Hall BO101",
+    "code": "LHBO101",
+    "capacity": 150,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "BO102",
+    "long_name": "Lecture Hall BO102",
+    "code": "LHBO102",
+    "capacity": 250,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "BP501",
+    "long_name": "Computer Lab BP501",
+    "code": "LABBP501",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "BP502",
+    "long_name": "Computer Lab BP502",
+    "code": "LABBP502",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "BQ101",
+    "long_name": "Lecture Hall BQ101",
+    "code": "LHBQ101",
+    "capacity": 250,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "BQ102",
+    "long_name": "Lecture Hall BQ102",
+    "code": "LHBQ102",
+    "capacity": 300,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "BR501",
+    "long_name": "Computer Lab BR501",
+    "code": "LABBR501",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "BR502",
+    "long_name": "Computer Lab BR502",
+    "code": "LABBR502",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "BS101",
+    "long_name": "Lecture Hall BS101",
+    "code": "LHBS101",
+    "capacity": 200,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "BS102",
+    "long_name": "Lecture Hall BS102",
+    "code": "LHBS102",
+    "capacity": 150,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "BT501",
+    "long_name": "Computer Lab BT501",
+    "code": "LABBT501",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "BT502",
+    "long_name": "Computer Lab BT502",
+    "code": "LABBT502",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "BU101",
+    "long_name": "Lecture Hall BU101",
+    "code": "LHUB101",
+    "capacity": 200,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "BU102",
+    "long_name": "Lecture Hall BU102",
+    "code": "LHUB102",
+    "capacity": 150,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "BV501",
+    "long_name": "Computer Lab BV501",
+    "code": "LABBV501",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "BV502",
+    "long_name": "Computer Lab BV502",
+    "code": "LABBV502",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "BW101",
+    "long_name": "Lecture Hall BW101",
+    "code": "LHWB101",
+    "capacity": 300,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "BW102",
+    "long_name": "Lecture Hall BW102",
+    "code": "LHWB102",
+    "capacity": 250,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "BX501",
+    "long_name": "Computer Lab BX501",
+    "code": "LABBX501",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "BX502",
+    "long_name": "Computer Lab BX502",
+    "code": "LABBX502",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "BY101",
+    "long_name": "Lecture Hall BY101",
+    "code": "LHYB101",
+    "capacity": 150,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "BY102",
+    "long_name": "Lecture Hall BY102",
+    "code": "LHYB102",
+    "capacity": 200,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "BZ501",
+    "long_name": "Computer Lab BZ501",
+    "code": "LABBZ501",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "BZ502",
+    "long_name": "Computer Lab BZ502",
+    "code": "LABBZ502",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "CA101",
+    "long_name": "Lecture Hall CA101",
+    "code": "LHCA101",
+    "capacity": 250,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "CA102",
+    "long_name": "Lecture Hall CA102",
+    "code": "LHCA102",
+    "capacity": 300,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "CB501",
+    "long_name": "Computer Lab CB501",
+    "code": "LABCB501",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "CB502",
+    "long_name": "Computer Lab CB502",
+    "code": "LABCB502",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "CC101",
+    "long_name": "Lecture Hall CC101",
+    "code": "LHCC101",
+    "capacity": 150,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "CC102",
+    "long_name": "Lecture Hall CC102",
+    "code": "LHCC102",
+    "capacity": 200,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "CD501",
+    "long_name": "Computer Lab CD501",
+    "code": "LABCD501",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "CD502",
+    "long_name": "Computer Lab CD502",
+    "code": "LABCD502",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "CE101",
+    "long_name": "Lecture Hall CE101",
+    "code": "LHCE101",
+    "capacity": 250,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "CE102",
+    "long_name": "Lecture Hall CE102",
+    "code": "LHCE102",
+    "capacity": 300,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "CF501",
+    "long_name": "Computer Lab CF501",
+    "code": "LABCF501",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "CF502",
+    "long_name": "Computer Lab CF502",
+    "code": "LABCF502",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "CG101",
+    "long_name": "Lecture Hall CG101",
+    "code": "LHCG101",
+    "capacity": 150,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "CG102",
+    "long_name": "Lecture Hall CG102",
+    "code": "LHCG102",
+    "capacity": 200,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "CH501",
+    "long_name": "Computer Lab CH501",
+    "code": "LABCH501",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "CH502",
+    "long_name": "Computer Lab CH502",
+    "code": "LABCH502",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "CI101",
+    "long_name": "Lecture Hall CI101",
+    "code": "LHCI101",
+    "capacity": 250,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "CI102",
+    "long_name": "Lecture Hall CI102",
+    "code": "LHCI102",
+    "capacity": 300,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "CJ501",
+    "long_name": "Computer Lab CJ501",
+    "code": "LABCJ501",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "CJ502",
+    "long_name": "Computer Lab CJ502",
+    "code": "LABCJ502",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "CK101",
+    "long_name": "Lecture Hall CK101",
+    "code": "LHCK101",
+    "capacity": 150,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "CK102",
+    "long_name": "Lecture Hall CK102",
+    "code": "LHCK102",
+    "capacity": 200,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "CL501",
+    "long_name": "Computer Lab CL501",
+    "code": "LABCL501",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "CL502",
+    "long_name": "Computer Lab CL502",
+    "code": "LABCL502",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "CM101",
+    "long_name": "Lecture Hall CM101",
+    "code": "LHCM101",
+    "capacity": 250,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "CM102",
+    "long_name": "Lecture Hall CM102",
+    "code": "LHCM102",
+    "capacity": 300,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "CN501",
+    "long_name": "Computer Lab CN501",
+    "code": "LABCN501",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "CN502",
+    "long_name": "Computer Lab CN502",
+    "code": "LABCN502",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "CO101",
+    "long_name": "Lecture Hall CO101",
+    "code": "LHCO101",
+    "capacity": 150,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "CO102",
+    "long_name": "Lecture Hall CO102",
+    "code": "LHCO102",
+    "capacity": 200,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "CP501",
+    "long_name": "Computer Lab CP501",
+    "code": "LABCP501",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "CP502",
+    "long_name": "Computer Lab CP502",
+    "code": "LABCP502",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "CQ101",
+    "long_name": "Lecture Hall CQ101",
+    "code": "LHCQ101",
+    "capacity": 250,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "CQ102",
+    "long_name": "Lecture Hall CQ102",
+    "code": "LHCQ102",
+    "capacity": 300,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "CR501",
+    "long_name": "Computer Lab CR501",
+    "code": "LABCR501",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "CR502",
+    "long_name": "Computer Lab CR502",
+    "code": "LABCR502",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "CS101",
+    "long_name": "Lecture Hall CS101",
+    "code": "LHCS101",
+    "capacity": 150,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "CS102",
+    "long_name": "Lecture Hall CS102",
+    "code": "LHCS102",
+    "capacity": 200,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "No",
+      "air_conditioned": "No"
+    }
+  },
+  {
+    "name": "CT501",
+    "long_name": "Computer Lab CT501",
+    "code": "LABCT501",
+    "capacity": 60,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  },
+  {
+    "name": "CT502",
+    "long_name": "Computer Lab CT502",
+    "code": "LABCT502",
+    "capacity": 80,
+    "attributes": {
+      "projector": "Yes",
+      "computers": "Yes",
+      "air_conditioned": "Yes"
+    }
+  }
+]

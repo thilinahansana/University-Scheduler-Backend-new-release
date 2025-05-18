@@ -1,0 +1,74 @@
+[
+  {
+    "name": 1,
+    "long_name": "First Year",
+    "total_capacity": 800,
+    "total_students": 0,
+    "subgroups": [
+      {
+        "name": "Semester 1",
+        "code": "SEM101",
+        "capacity": 400
+      },
+      {
+        "name": "Semester 2",
+        "code": "SEM102",
+        "capacity": 400
+      }
+    ]
+  },
+  {
+    "name": 2,
+    "long_name": "Second Year",
+    "total_capacity": 800,
+    "total_students": 0,
+    "subgroups": [
+      {
+        "name": "Semester 1",
+        "code": "SEM201",
+        "capacity": 400
+      },
+      {
+        "name": "Semester 2",
+        "code": "SEM202",
+        "capacity": 400
+      }
+    ]
+  },
+  {
+    "name": 3,
+    "long_name": "Third Year",
+    "total_capacity": 600,
+    "total_students": 0,
+    "subgroups": [
+      {
+        "name": "Semester 1",
+        "code": "SEM301",
+        "capacity": 300
+      },
+      {
+        "name": "Semester 2",
+        "code": "SEM302",
+        "capacity": 300
+      }
+    ]
+  },
+  {
+    "name": 4,
+    "long_name": "Fourth Year",
+    "total_capacity": 600,
+    "total_students": 0,
+    "subgroups": [
+      {
+        "name": "Semester 1",
+        "code": "SEM401",
+        "capacity": 300
+      },
+      {
+        "name": "Semester 2",
+        "code": "SEM402",
+        "capacity": 300
+      }
+    ]
+  }
+]

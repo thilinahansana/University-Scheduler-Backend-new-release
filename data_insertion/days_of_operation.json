@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Mon",
+    "long_name": "Monday"
+  },
+  {
+    "name": "Tue",
+    "long_name": "Tuesday"
+  },
+  {
+    "name": "Wed",
+    "long_name": "Wednesday"
+  },
+  {
+    "name": "Thu",
+    "long_name": "Thursday"
+  },
+  {
+    "name": "Fri",
+    "long_name": "Friday"
+  }
+]

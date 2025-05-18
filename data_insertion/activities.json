@@ -1,0 +1,3402 @@
+[
+  {
+    "code": "AC-001",
+    "name": "Introduction to Programming (IT) Lecture+Tutorial",
+    "subject": "IT1120",
+    "teacher_ids": ["FA0000030"],
+    "subgroup_ids": ["Y1S1.IT.1", "Y1S1.IT.2", "Y1S1.IT.3"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-002",
+    "name": "Introduction to Programming (IT) Lab",
+    "subject": "IT1120",
+    "teacher_ids": ["FA0000087", "FA0000088"],
+    "subgroup_ids": ["Y1S1.IT.1", "Y1S1.IT.2", "Y1S1.IT.3"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-003",
+    "name": "Data Communication and Networks (ISE) Lecture+Tutorial",
+    "subject": "IE1030",
+    "teacher_ids": ["FA0000063"],
+    "subgroup_ids": ["Y1S1.ISE.1", "Y1S1.ISE.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-004",
+    "name": "Data Communication and Networks (ISE) Lab",
+    "subject": "IE1030",
+    "teacher_ids": ["FA0000110", "FA0000158"],
+    "subgroup_ids": ["Y1S1.ISE.1", "Y1S1.ISE.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-005",
+    "name": "Data Communication and Networks (CS) Lecture+Tutorial",
+    "subject": "IE1030",
+    "teacher_ids": ["FA0000110"],
+    "subgroup_ids": ["Y1S1.CS.1", "Y1S1.CS.2", "Y1S1.CS.3"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-006",
+    "name": "Data Communication and Networks (CS) Lab",
+    "subject": "IE1030",
+    "teacher_ids": ["IN0000002", "IN0000023"],
+    "subgroup_ids": ["Y1S1.CS.1", "Y1S1.CS.2", "Y1S1.CS.3"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-007",
+    "name": "Mathematics for Computing (IT) Lecture+Tutorial",
+    "subject": "IT1130",
+    "teacher_ids": ["FA0000050"],
+    "subgroup_ids": ["Y1S1.IT.1", "Y1S1.IT.2", "Y1S1.IT.3"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-008",
+    "name": "Mathematics for Computing (IT) Lab",
+    "subject": "IT1130",
+    "teacher_ids": ["FA0000097", "FA0000144"],
+    "subgroup_ids": ["Y1S1.IT.1", "Y1S1.IT.2", "Y1S1.IT.3"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-009",
+    "name": "Mathematics for Computing (SE) Lecture+Tutorial",
+    "subject": "IT1130",
+    "teacher_ids": ["FA0000148"],
+    "subgroup_ids": ["Y1S1.SE.1", "Y1S1.SE.2", "Y1S1.SE.3", "Y1S1.SE.4"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-010",
+    "name": "Mathematics for Computing (SE) Lab",
+    "subject": "IT1130",
+    "teacher_ids": ["FA0000149", "FA0000150"],
+    "subgroup_ids": ["Y1S1.SE.1", "Y1S1.SE.2", "Y1S1.SE.3", "Y1S1.SE.4"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-011",
+    "name": "Fundamentals of Computing (IT) Lecture+Tutorial",
+    "subject": "IT1140",
+    "teacher_ids": ["FA0000043"],
+    "subgroup_ids": ["Y1S1.IT.1", "Y1S1.IT.2", "Y1S1.IT.3"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-012",
+    "name": "Fundamentals of Computing (IT) Lab",
+    "subject": "IT1140",
+    "teacher_ids": ["FA0000094", "FA0000127"],
+    "subgroup_ids": ["Y1S1.IT.1", "Y1S1.IT.2", "Y1S1.IT.3"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-013",
+    "name": "Technical Writing (IT) Lecture+Tutorial",
+    "subject": "IT1150",
+    "teacher_ids": ["FA0000036"],
+    "subgroup_ids": ["Y1S1.IT.1", "Y1S1.IT.2", "Y1S1.IT.3"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-014",
+    "name": "Technical Writing (IT) Lab",
+    "subject": "IT1150",
+    "teacher_ids": ["FA0000090", "FA0000106"],
+    "subgroup_ids": ["Y1S1.IT.1", "Y1S1.IT.2", "Y1S1.IT.3"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-015",
+    "name": "Technical Writing (IM) Lecture+Tutorial",
+    "subject": "IT1150",
+    "teacher_ids": ["FA0000107"],
+    "subgroup_ids": ["Y1S1.IM.1", "Y1S1.IM.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-016",
+    "name": "Technical Writing (IM) Lab",
+    "subject": "IT1150",
+    "teacher_ids": ["FA0000108", "FA0000138"],
+    "subgroup_ids": ["Y1S1.IM.1", "Y1S1.IM.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-017",
+    "name": "Discrete Mathematics (IT) Lecture+Tutorial",
+    "subject": "IT1160",
+    "teacher_ids": ["FA0000061"],
+    "subgroup_ids": ["Y1S1.IT.1", "Y1S1.IT.2", "Y1S1.IT.3"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-018",
+    "name": "Discrete Mathematics (IT) Lab",
+    "subject": "IT1160",
+    "teacher_ids": ["FA0000109", "FA0000156"],
+    "subgroup_ids": ["Y1S1.IT.1", "Y1S1.IT.2", "Y1S1.IT.3"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-019",
+    "name": "Discrete Mathematics (SE) Lecture+Tutorial",
+    "subject": "IT1160",
+    "teacher_ids": ["FA0000109"],
+    "subgroup_ids": ["Y1S1.SE.1", "Y1S1.SE.2", "Y1S1.SE.3", "Y1S1.SE.4"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-020",
+    "name": "Discrete Mathematics (SE) Lab",
+    "subject": "IT1160",
+    "teacher_ids": ["IN0000001", "IN0000014"],
+    "subgroup_ids": ["Y1S1.SE.1", "Y1S1.SE.2", "Y1S1.SE.3", "Y1S1.SE.4"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-021",
+    "name": "Data Structures and Algorithms (IT) Lecture+Tutorial",
+    "subject": "IT1170",
+    "teacher_ids": ["FA0000056"],
+    "subgroup_ids": ["Y1S1.IT.1", "Y1S1.IT.2", "Y1S1.IT.3"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-022",
+    "name": "Data Structures and Algorithms (IT) Lab",
+    "subject": "IT1170",
+    "teacher_ids": ["FA0000104", "FA0000151"],
+    "subgroup_ids": ["Y1S1.IT.1", "Y1S1.IT.2", "Y1S1.IT.3"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-023",
+    "name": "Data Structures and Algorithms (CS) Lecture+Tutorial",
+    "subject": "IT1170",
+    "teacher_ids": ["FA0000187"],
+    "subgroup_ids": ["Y1S1.CS.1", "Y1S1.CS.2", "Y1S1.CS.3"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-024",
+    "name": "Data Structures and Algorithms (CS) Lab",
+    "subject": "IT1170",
+    "teacher_ids": ["FA0000188", "FA0000189"],
+    "subgroup_ids": ["Y1S1.CS.1", "Y1S1.CS.2", "Y1S1.CS.3"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-025",
+    "name": "Object Oriented Programming (SE) Lecture+Tutorial",
+    "subject": "SE1020",
+    "teacher_ids": ["FA0000032"],
+    "subgroup_ids": ["Y1S1.SE.1", "Y1S1.SE.2", "Y1S1.SE.3", "Y1S1.SE.4"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-026",
+    "name": "Object Oriented Programming (SE) Lab",
+    "subject": "SE1020",
+    "teacher_ids": ["FA0000095", "FA0000096"],
+    "subgroup_ids": ["Y1S1.SE.1", "Y1S1.SE.2", "Y1S1.SE.3", "Y1S1.SE.4"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-027",
+    "name": "Software Engineering (IT) Lecture+Tutorial",
+    "subject": "IT2020",
+    "teacher_ids": ["FA0000045"],
+    "subgroup_ids": ["Y2S1.IT.1", "Y2S1.IT.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-028",
+    "name": "Software Engineering (IT) Lab",
+    "subject": "IT2020",
+    "teacher_ids": ["FA0000133", "FA0000134"],
+    "subgroup_ids": ["Y2S1.IT.1", "Y2S1.IT.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-029",
+    "name": "Software Engineering (SE) Lecture+Tutorial",
+    "subject": "IT2020",
+    "teacher_ids": ["FA0000135"],
+    "subgroup_ids": [
+      "Y2S1.SE.1",
+      "Y2S1.SE.2",
+      "Y2S1.SE.3",
+      "Y2S1.SE.4",
+      "Y2S1.SE.5"
+    ],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-030",
+    "name": "Software Engineering (SE) Lab",
+    "subject": "IT2020",
+    "teacher_ids": ["FA0000142", "FA0000190"],
+    "subgroup_ids": [
+      "Y2S1.SE.1",
+      "Y2S1.SE.2",
+      "Y2S1.SE.3",
+      "Y2S1.SE.4",
+      "Y2S1.SE.5"
+    ],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-031",
+    "name": "Database Management Systems (IT) Lecture+Tutorial",
+    "subject": "IT2040",
+    "teacher_ids": ["FA0000026"],
+    "subgroup_ids": ["Y2S1.IT.1", "Y2S1.IT.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-032",
+    "name": "Database Management Systems (IT) Lab",
+    "subject": "IT2040",
+    "teacher_ids": ["FA0000027", "FA0000028"],
+    "subgroup_ids": ["Y2S1.IT.1", "Y2S1.IT.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-033",
+    "name": "Database Management Systems (CS) Lecture+Tutorial",
+    "subject": "IT2040",
+    "teacher_ids": ["FA0000069"],
+    "subgroup_ids": ["Y2S1.CS.1", "Y2S1.CS.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-034",
+    "name": "Database Management Systems (CS) Lab",
+    "subject": "IT2040",
+    "teacher_ids": ["FA0000116", "FA0000164"],
+    "subgroup_ids": ["Y2S1.CS.1", "Y2S1.CS.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-035",
+    "name": "Computer Networks (IT) Lecture+Tutorial",
+    "subject": "IT2050",
+    "teacher_ids": ["FA0000057"],
+    "subgroup_ids": ["Y2S1.IT.1", "Y2S1.IT.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-036",
+    "name": "Computer Networks (IT) Lab",
+    "subject": "IT2050",
+    "teacher_ids": ["FA0000105", "FA0000152"],
+    "subgroup_ids": ["Y2S1.IT.1", "Y2S1.IT.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-037",
+    "name": "Computer Networks (ISE) Lecture+Tutorial",
+    "subject": "IT2050",
+    "teacher_ids": ["FA0000193"],
+    "subgroup_ids": ["Y2S1.ISE.1", "Y2S1.ISE.2", "Y2S1.ISE.3"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-038",
+    "name": "Computer Networks (ISE) Lab",
+    "subject": "IT2050",
+    "teacher_ids": ["FA0000194", "FA0000195"],
+    "subgroup_ids": ["Y2S1.ISE.1", "Y2S1.ISE.2", "Y2S1.ISE.3"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-039",
+    "name": "Operating Systems and System Administration (IT) Lecture+Tutorial",
+    "subject": "IT2060",
+    "teacher_ids": ["FA0000051"],
+    "subgroup_ids": ["Y2S1.IT.1", "Y2S1.IT.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-040",
+    "name": "Operating Systems and System Administration (IT) Lab",
+    "subject": "IT2060",
+    "teacher_ids": ["FA0000099", "FA0000146"],
+    "subgroup_ids": ["Y2S1.IT.1", "Y2S1.IT.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-041",
+    "name": "Operating Systems and System Administration (SE) Lecture+Tutorial",
+    "subject": "IT2060",
+    "teacher_ids": ["FA0000157"],
+    "subgroup_ids": [
+      "Y2S1.SE.1",
+      "Y2S1.SE.2",
+      "Y2S1.SE.3",
+      "Y2S1.SE.4",
+      "Y2S1.SE.5"
+    ],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-042",
+    "name": "Operating Systems and System Administration (SE) Lab",
+    "subject": "IT2060",
+    "teacher_ids": ["FA0000159", "FA0000099"],
+    "subgroup_ids": [
+      "Y2S1.SE.1",
+      "Y2S1.SE.2",
+      "Y2S1.SE.3",
+      "Y2S1.SE.4",
+      "Y2S1.SE.5"
+    ],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-043",
+    "name": "Routing & Switching (ISE) Lecture+Tutorial",
+    "subject": "IE2020",
+    "teacher_ids": ["FA0000082"],
+    "subgroup_ids": ["Y2S1.ISE.1", "Y2S1.ISE.2", "Y2S1.ISE.3"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-044",
+    "name": "Routing & Switching (ISE) Lab",
+    "subject": "IE2020",
+    "teacher_ids": ["FA0000083", "FA0000084"],
+    "subgroup_ids": ["Y2S1.ISE.1", "Y2S1.ISE.2", "Y2S1.ISE.3"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-045",
+    "name": "Analog Electronics (ISE) Lecture+Tutorial",
+    "subject": "IE2030",
+    "teacher_ids": ["FA0000007"],
+    "subgroup_ids": ["Y2S1.ISE.1", "Y2S1.ISE.2", "Y2S1.ISE.3"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-046",
+    "name": "Analog Electronics (ISE) Lab",
+    "subject": "IE2030",
+    "teacher_ids": ["FA0000019", "FA0000020"],
+    "subgroup_ids": ["Y2S1.ISE.1", "Y2S1.ISE.2", "Y2S1.ISE.3"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-047",
+    "name": "Database Systems Administration (ISE) Lecture+Tutorial",
+    "subject": "IE2080",
+    "teacher_ids": ["FA0000003"],
+    "subgroup_ids": ["Y2S1.ISE.1", "Y2S1.ISE.2", "Y2S1.ISE.3"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-048",
+    "name": "Database Systems Administration (ISE) Lab",
+    "subject": "IE2080",
+    "teacher_ids": ["FA0000010", "FA0000011"],
+    "subgroup_ids": ["Y2S1.ISE.1", "Y2S1.ISE.2", "Y2S1.ISE.3"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-049",
+    "name": "Database Systems Administration (CS) Lecture+Tutorial",
+    "subject": "IE2080",
+    "teacher_ids": ["FA0000012"],
+    "subgroup_ids": ["Y2S1.CS.1", "Y2S1.CS.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-050",
+    "name": "Database Systems Administration (CS) Lab",
+    "subject": "IE2080",
+    "teacher_ids": ["FA0000074", "FA0000122"],
+    "subgroup_ids": ["Y2S1.CS.1", "Y2S1.CS.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-051",
+    "name": "Digital Electronics (ISE) Lecture+Tutorial",
+    "subject": "IE2010",
+    "teacher_ids": ["FA0000041"],
+    "subgroup_ids": ["Y2S1.ISE.1", "Y2S1.ISE.2", "Y2S1.ISE.3"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-052",
+    "name": "Digital Electronics (ISE) Lab",
+    "subject": "IE2010",
+    "teacher_ids": ["FA0000042", "FA0000071"],
+    "subgroup_ids": ["Y2S1.ISE.1", "Y2S1.ISE.2", "Y2S1.ISE.3"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-053",
+    "name": "Object Oriented Programming (IT) Lecture+Tutorial",
+    "subject": "IT2030",
+    "teacher_ids": ["FA0000093"],
+    "subgroup_ids": ["Y2S1.IT.1", "Y2S1.IT.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-054",
+    "name": "Object Oriented Programming (IT) Lab",
+    "subject": "IT2030",
+    "teacher_ids": ["FA0000121", "FA0000123"],
+    "subgroup_ids": ["Y2S1.IT.1", "Y2S1.IT.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-055",
+    "name": "Object Oriented Programming (SE) Lecture+Tutorial",
+    "subject": "IT2030",
+    "teacher_ids": ["FA0000140"],
+    "subgroup_ids": [
+      "Y2S1.SE.1",
+      "Y2S1.SE.2",
+      "Y2S1.SE.3",
+      "Y2S1.SE.4",
+      "Y2S1.SE.5"
+    ],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-056",
+    "name": "Object Oriented Programming (SE) Lab",
+    "subject": "IT2030",
+    "teacher_ids": ["IN0000032", "FA0000121"],
+    "subgroup_ids": [
+      "Y2S1.SE.1",
+      "Y2S1.SE.2",
+      "Y2S1.SE.3",
+      "Y2S1.SE.4",
+      "Y2S1.SE.5"
+    ],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-057",
+    "name": "Probability and Statistics (IT) Lecture+Tutorial",
+    "subject": "IT2110",
+    "teacher_ids": ["FA0000055"],
+    "subgroup_ids": ["Y2S1.IT.1", "Y2S1.IT.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-058",
+    "name": "Probability and Statistics (IT) Lab",
+    "subject": "IT2110",
+    "teacher_ids": ["FA0000103", "FA0000181"],
+    "subgroup_ids": ["Y2S1.IT.1", "Y2S1.IT.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-059",
+    "name": "Probability and Statistics (CS) Lecture+Tutorial",
+    "subject": "IT2110",
+    "teacher_ids": ["FA0000182"],
+    "subgroup_ids": ["Y2S1.CS.1", "Y2S1.CS.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-060",
+    "name": "Probability and Statistics (CS) Lab",
+    "subject": "IT2110",
+    "teacher_ids": ["FA0000183", "FA0000198"],
+    "subgroup_ids": ["Y2S1.CS.1", "Y2S1.CS.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-061",
+    "name": "Systems and Network Programming (ISE) Lecture+Tutorial",
+    "subject": "IE2012",
+    "teacher_ids": ["FA0000098"],
+    "subgroup_ids": ["Y2S1.ISE.1", "Y2S1.ISE.2", "Y2S1.ISE.3"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-062",
+    "name": "Systems and Network Programming (ISE) Lab",
+    "subject": "IE2012",
+    "teacher_ids": ["FA0000145", "FA0000153"],
+    "subgroup_ids": ["Y2S1.ISE.1", "Y2S1.ISE.2", "Y2S1.ISE.3"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-063",
+    "name": "Introduction to Cyber Security (ISE) Lecture+Tutorial",
+    "subject": "IE2022",
+    "teacher_ids": ["FA0000001"],
+    "subgroup_ids": ["Y1S1.ISE.1", "Y1S1.ISE.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-064",
+    "name": "Introduction to Cyber Security (ISE) Lab",
+    "subject": "IE2022",
+    "teacher_ids": ["FA0000064", "FA0000112"],
+    "subgroup_ids": ["Y1S1.ISE.1", "Y1S1.ISE.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-065",
+    "name": "Introduction to Cyber Security (CS) Lecture+Tutorial",
+    "subject": "IE2022",
+    "teacher_ids": ["FA0000064"],
+    "subgroup_ids": ["Y1S1.CS.1", "Y1S1.CS.2", "Y1S1.CS.3"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-066",
+    "name": "Introduction to Cyber Security (CS) Lab",
+    "subject": "IE2022",
+    "teacher_ids": ["IN0000004", "IN0000033"],
+    "subgroup_ids": ["Y1S1.CS.1", "Y1S1.CS.2", "Y1S1.CS.3"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-067",
+    "name": "Secure Operating Systems (ISE) Lecture+Tutorial",
+    "subject": "IE2033",
+    "teacher_ids": ["FA0000033"],
+    "subgroup_ids": ["Y1S1.ISE.1", "Y1S1.ISE.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-068",
+    "name": "Secure Operating Systems (ISE) Lab",
+    "subject": "IE2033",
+    "teacher_ids": ["FA0000089", "FA0000136"],
+    "subgroup_ids": ["Y1S1.ISE.1", "Y1S1.ISE.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-069",
+    "name": "Secure Operating Systems (CS) Lecture+Tutorial",
+    "subject": "IE2033",
+    "teacher_ids": ["FA0000184"],
+    "subgroup_ids": ["Y1S1.CS.1", "Y1S1.CS.2", "Y1S1.CS.3"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-070",
+    "name": "Secure Operating Systems (CS) Lab",
+    "subject": "IE2033",
+    "teacher_ids": ["IN0000028", "FA0000089"],
+    "subgroup_ids": ["Y1S1.CS.1", "Y1S1.CS.2", "Y1S1.CS.3"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-071",
+    "name": "Database Management Systems (IT) Lecture+Tutorial",
+    "subject": "IT2041",
+    "teacher_ids": ["FA0000013"],
+    "subgroup_ids": ["Y2S1.IT.1", "Y2S1.IT.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-072",
+    "name": "Database Management Systems (IT) Lab",
+    "subject": "IT2041",
+    "teacher_ids": ["FA0000066", "FA0000114"],
+    "subgroup_ids": ["Y2S1.IT.1", "Y2S1.IT.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-073",
+    "name": "Database Management Systems (CS) Lecture+Tutorial",
+    "subject": "IT2041",
+    "teacher_ids": ["FA0000161"],
+    "subgroup_ids": ["Y2S1.CS.1", "Y2S1.CS.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-074",
+    "name": "Database Management Systems (CS) Lab",
+    "subject": "IT2041",
+    "teacher_ids": ["IN0000006", "FA0000011"],
+    "subgroup_ids": ["Y2S1.CS.1", "Y2S1.CS.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-075",
+    "name": "Object Oriented Programming (ISE) Lecture+Tutorial",
+    "subject": "IE2021",
+    "teacher_ids": ["FA0000021"],
+    "subgroup_ids": ["Y2S1.ISE.1", "Y2S1.ISE.2", "Y2S1.ISE.3"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-076",
+    "name": "Object Oriented Programming (ISE) Lab",
+    "subject": "IE2021",
+    "teacher_ids": ["FA0000062", "FA0000130"],
+    "subgroup_ids": ["Y2S1.ISE.1", "Y2S1.ISE.2", "Y2S1.ISE.3"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-077",
+    "name": "Object Oriented Programming (SE) Lecture+Tutorial",
+    "subject": "IE2021",
+    "teacher_ids": ["FA0000178"],
+    "subgroup_ids": [
+      "Y2S1.SE.1",
+      "Y2S1.SE.2",
+      "Y2S1.SE.3",
+      "Y2S1.SE.4",
+      "Y2S1.SE.5"
+    ],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-078",
+    "name": "Object Oriented Programming (SE) Lab",
+    "subject": "IE2021",
+    "teacher_ids": ["IN0000022", "FA0000062"],
+    "subgroup_ids": [
+      "Y2S1.SE.1",
+      "Y2S1.SE.2",
+      "Y2S1.SE.3",
+      "Y2S1.SE.4",
+      "Y2S1.SE.5"
+    ],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-079",
+    "name": "Design and Management of Computing Infrastructure (ISE) Lecture+Tutorial",
+    "subject": "IE2071",
+    "teacher_ids": ["FA0000006"],
+    "subgroup_ids": ["Y2S1.ISE.1", "Y2S1.ISE.2", "Y2S1.ISE.3"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-080",
+    "name": "Design and Management of Computing Infrastructure (ISE) Lab",
+    "subject": "IE2071",
+    "teacher_ids": ["FA0000016", "FA0000017"],
+    "subgroup_ids": ["Y2S1.ISE.1", "Y2S1.ISE.2", "Y2S1.ISE.3"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-081",
+    "name": "Design and Management of Computing Infrastructure (IM) Lecture+Tutorial",
+    "subject": "IE2071",
+    "teacher_ids": ["FA0000018"],
+    "subgroup_ids": ["Y2S1.IM.1", "Y2S1.IM.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-082",
+    "name": "Design and Management of Computing Infrastructure (IM) Lab",
+    "subject": "IE2071",
+    "teacher_ids": ["FA0000075", "FA0000170"],
+    "subgroup_ids": ["Y2S1.IM.1", "Y2S1.IM.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-083",
+    "name": "Structured Analysis and Design (ISE) Lecture+Tutorial",
+    "subject": "IE2031",
+    "teacher_ids": ["FA0000060"],
+    "subgroup_ids": ["Y2S1.ISE.1", "Y2S1.ISE.2", "Y2S1.ISE.3"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-084",
+    "name": "Structured Analysis and Design (ISE) Lab",
+    "subject": "IE2031",
+    "teacher_ids": ["FA0000155", "FA0000119"],
+    "subgroup_ids": ["Y2S1.ISE.1", "Y2S1.ISE.2", "Y2S1.ISE.3"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-085",
+    "name": "Structured Analysis and Design (SE) Lecture+Tutorial",
+    "subject": "IE2031",
+    "teacher_ids": ["FA0000155"],
+    "subgroup_ids": [
+      "Y2S1.SE.1",
+      "Y2S1.SE.2",
+      "Y2S1.SE.3",
+      "Y2S1.SE.4",
+      "Y2S1.SE.5"
+    ],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-086",
+    "name": "Structured Analysis and Design (SE) Lab",
+    "subject": "IE2031",
+    "teacher_ids": ["IN0000005", "IN0000007"],
+    "subgroup_ids": [
+      "Y2S1.SE.1",
+      "Y2S1.SE.2",
+      "Y2S1.SE.3",
+      "Y2S1.SE.4",
+      "Y2S1.SE.5"
+    ],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-087",
+    "name": "Mobile Application Development (IT) Lecture+Tutorial",
+    "subject": "IT2010",
+    "teacher_ids": ["FA0000047"],
+    "subgroup_ids": ["Y2S2.IT.1", "Y2S2.IT.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-088",
+    "name": "Mobile Application Development (IT) Lab",
+    "subject": "IT2010",
+    "teacher_ids": ["FA0000048", "FA0000049"],
+    "subgroup_ids": ["Y2S2.IT.1", "Y2S2.IT.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-089",
+    "name": "Mobile Application Development (SE) Lecture+Tutorial",
+    "subject": "IT2010",
+    "teacher_ids": ["FA0000072"],
+    "subgroup_ids": ["Y2S2.SE.1", "Y2S2.SE.2", "Y2S2.SE.3", "Y2S2.SE.4"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-090",
+    "name": "Mobile Application Development (SE) Lab",
+    "subject": "IT2010",
+    "teacher_ids": ["FA0000120", "FA0000167"],
+    "subgroup_ids": ["Y2S2.SE.1", "Y2S2.SE.2", "Y2S2.SE.3", "Y2S2.SE.4"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-091",
+    "name": "Data Structures and Algorithms (IT) Lecture+Tutorial",
+    "subject": "IT2070",
+    "teacher_ids": ["FA0000111"],
+    "subgroup_ids": ["Y2S2.IT.1", "Y2S2.IT.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-092",
+    "name": "Data Structures and Algorithms (IT) Lab",
+    "subject": "IT2070",
+    "teacher_ids": ["IN0000003", "IN0000029"],
+    "subgroup_ids": ["Y2S2.IT.1", "Y2S2.IT.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-093",
+    "name": "Data Structures and Algorithms (CS) Lecture+Tutorial",
+    "subject": "IT2070",
+    "teacher_ids": ["FA0000159"],
+    "subgroup_ids": ["Y2S2.CS.1", "Y2S2.CS.2", "Y2S2.CS.3"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-094",
+    "name": "Data Structures and Algorithms (CS) Lab",
+    "subject": "IT2070",
+    "teacher_ids": ["IN0000030", "IN0000031"],
+    "subgroup_ids": ["Y2S2.CS.1", "Y2S2.CS.2", "Y2S2.CS.3"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-095",
+    "name": "IT Project (IT) Lecture+Tutorial",
+    "subject": "IT2080",
+    "teacher_ids": ["FA0000034"],
+    "subgroup_ids": ["Y1S2.IT.1", "Y1S2.IT.2", "Y1S2.IT.3"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-096",
+    "name": "IT Project (IT) Lab",
+    "subject": "IT2080",
+    "teacher_ids": ["FA0000035", "FA0000078"],
+    "subgroup_ids": ["Y1S2.IT.1", "Y1S2.IT.2", "Y1S2.IT.3"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-097",
+    "name": "IT Project (IM) Lecture+Tutorial",
+    "subject": "IT2080",
+    "teacher_ids": ["FA0000126"],
+    "subgroup_ids": ["Y1S2.IM.1", "Y1S2.IM.2", "Y1S2.IM.3"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-098",
+    "name": "IT Project (IM) Lab",
+    "subject": "IT2080",
+    "teacher_ids": ["FA0000173", "IN0000018"],
+    "subgroup_ids": ["Y1S2.IM.1", "Y1S2.IM.2", "Y1S2.IM.3"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-099",
+    "name": "Professional Skills (IT) Lecture+Tutorial",
+    "subject": "IT2090",
+    "teacher_ids": ["FA0000191"],
+    "subgroup_ids": ["Y1S2.IT.1", "Y1S2.IT.2", "Y1S2.IT.3"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-100",
+    "name": "Professional Skills (IT) Lab",
+    "subject": "IT2090",
+    "teacher_ids": ["FA0000192", "FA0000199"],
+    "subgroup_ids": ["Y1S2.IT.1", "Y1S2.IT.2", "Y1S2.IT.3"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-101",
+    "name": "Professional Skills (IM) Lecture+Tutorial",
+    "subject": "IT2090",
+    "teacher_ids": ["FA0000104"],
+    "subgroup_ids": ["Y1S2.IM.1", "Y1S2.IM.2", "Y1S2.IM.3"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-102",
+    "name": "Professional Skills (IM) Lab",
+    "subject": "IT2090",
+    "teacher_ids": ["FA0000152", "FA0000190"],
+    "subgroup_ids": ["Y1S2.IM.1", "Y1S2.IM.2", "Y1S2.IM.3"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-103",
+    "name": "Employability Skills Development (IT) Lecture+Tutorial",
+    "subject": "IT2102",
+    "teacher_ids": ["FA0000100"],
+    "subgroup_ids": ["Y3S2.IT.1", "Y3S2.IT.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-104",
+    "name": "Employability Skills Development (IT) Lab",
+    "subject": "IT2102",
+    "teacher_ids": ["FA0000101", "FA0000102"],
+    "subgroup_ids": ["Y3S2.IT.1", "Y3S2.IT.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-105",
+    "name": "Employability Skills Development (IM) Lecture+Tutorial",
+    "subject": "IT2102",
+    "teacher_ids": ["FA0000137"],
+    "subgroup_ids": ["Y3S2.IM.1", "Y3S2.IM.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-106",
+    "name": "Employability Skills Development (IM) Lab",
+    "subject": "IT2102",
+    "teacher_ids": ["FA0000101", "FA0000102"],
+    "subgroup_ids": ["Y3S2.IM.1", "Y3S2.IM.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-107",
+    "name": "Probability and Statistics (IT) Lecture+Tutorial",
+    "subject": "IT2111",
+    "teacher_ids": ["FA0000052"],
+    "subgroup_ids": ["Y2S2.IT.1", "Y2S2.IT.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-108",
+    "name": "Probability and Statistics (IT) Lab",
+    "subject": "IT2111",
+    "teacher_ids": ["FA0000147", "FA0000163"],
+    "subgroup_ids": ["Y2S2.IT.1", "Y2S2.IT.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-109",
+    "name": "Probability and Statistics (CS) Lecture+Tutorial",
+    "subject": "IT2111",
+    "teacher_ids": ["FA0000165"],
+    "subgroup_ids": ["Y2S2.CS.1", "Y2S2.CS.2", "Y2S2.CS.3"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-110",
+    "name": "Probability and Statistics (CS) Lab",
+    "subject": "IT2111",
+    "teacher_ids": ["FA0000147", "FA0000163"],
+    "subgroup_ids": ["Y2S2.CS.1", "Y2S2.CS.2", "Y2S2.CS.3"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-111",
+    "name": "Advanced Internetworking (ISE) Lecture+Tutorial",
+    "subject": "IE2040",
+    "teacher_ids": ["FA0000024"],
+    "subgroup_ids": ["Y2S2.ISE.1", "Y2S2.ISE.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-112",
+    "name": "Advanced Internetworking (ISE) Lab",
+    "subject": "IE2040",
+    "teacher_ids": ["FA0000070", "FA0000132"],
+    "subgroup_ids": ["Y2S2.ISE.1", "Y2S2.ISE.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-113",
+    "name": "Operating Systems (ISE) Lecture+Tutorial",
+    "subject": "IE2050",
+    "teacher_ids": ["FA0000154"],
+    "subgroup_ids": ["Y1S2.ISE.1", "Y1S2.ISE.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-114",
+    "name": "Operating Systems (ISE) Lab",
+    "subject": "IE2050",
+    "teacher_ids": ["FA0000146", "FA0000156"],
+    "subgroup_ids": ["Y1S2.ISE.1", "Y1S2.ISE.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-115",
+    "name": "Operating Systems (CS) Lecture+Tutorial",
+    "subject": "IE2050",
+    "teacher_ids": ["FA0000051"],
+    "subgroup_ids": ["Y1S2.CS.1", "Y1S2.CS.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-116",
+    "name": "Operating Systems (CS) Lab",
+    "subject": "IE2050",
+    "teacher_ids": ["FA0000098", "FA0000154"],
+    "subgroup_ids": ["Y1S2.CS.1", "Y1S2.CS.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-117",
+    "name": "Computer Systems Administration (ISE) Lecture+Tutorial",
+    "subject": "IE2060",
+    "teacher_ids": ["FA0000008"],
+    "subgroup_ids": ["Y2S2.ISE.1", "Y2S2.ISE.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-118",
+    "name": "Computer Systems Administration (ISE) Lab",
+    "subject": "IE2060",
+    "teacher_ids": ["FA0000022", "FA0000023"],
+    "subgroup_ids": ["Y2S2.ISE.1", "Y2S2.ISE.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-119",
+    "name": "Computer Systems Administration (CS) Lecture+Tutorial",
+    "subject": "IE2060",
+    "teacher_ids": ["FA0000076"],
+    "subgroup_ids": ["Y2S2.CS.1", "Y2S2.CS.2", "Y2S2.CS.3"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-120",
+    "name": "Computer Systems Administration (CS) Lab",
+    "subject": "IE2060",
+    "teacher_ids": ["FA0000124", "FA0000171"],
+    "subgroup_ids": ["Y2S2.CS.1", "Y2S2.CS.2", "Y2S2.CS.3"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-121",
+    "name": "Professional Engineering Practice and Industrial Management (ISE) Lecture+Tutorial",
+    "subject": "IE2090",
+    "teacher_ids": ["FA0000009"],
+    "subgroup_ids": ["Y2S2.ISE.1", "Y2S2.ISE.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-122",
+    "name": "Professional Engineering Practice and Industrial Management (ISE) Lab",
+    "subject": "IE2090",
+    "teacher_ids": ["FA0000113", "FA0000010"],
+    "subgroup_ids": ["Y2S2.ISE.1", "Y2S2.ISE.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-123",
+    "name": "Professional Engineering Practice and Industrial Management (IM) Lecture+Tutorial",
+    "subject": "IE2090",
+    "teacher_ids": ["FA0000066"],
+    "subgroup_ids": ["Y2S2.IM.1", "Y2S2.IM.2", "Y2S2.IM.3"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-124",
+    "name": "Professional Engineering Practice and Industrial Management (IM) Lab",
+    "subject": "IE2090",
+    "teacher_ids": ["FA0000113", "IN0000005"],
+    "subgroup_ids": ["Y2S2.IM.1", "Y2S2.IM.2", "Y2S2.IM.3"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-125",
+    "name": "Embedded Systems (ISE) Lecture+Tutorial",
+    "subject": "IE2070",
+    "teacher_ids": ["FA0000139"],
+    "subgroup_ids": ["Y2S2.ISE.1", "Y2S2.ISE.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-126",
+    "name": "Embedded Systems (ISE) Lab",
+    "subject": "IE2070",
+    "teacher_ids": ["FA0000141", "FA0000143"],
+    "subgroup_ids": ["Y2S2.ISE.1", "Y2S2.ISE.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-127",
+    "name": "Database Management Systems (IT) Lecture+Tutorial",
+    "subject": "IT2042",
+    "teacher_ids": ["FA0000044"],
+    "subgroup_ids": ["Y2S2.IT.1", "Y2S2.IT.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-128",
+    "name": "Database Management Systems (IT) Lab",
+    "subject": "IT2042",
+    "teacher_ids": ["FA0000131", "FA0000094"],
+    "subgroup_ids": ["Y2S2.IT.1", "Y2S2.IT.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-129",
+    "name": "Database Management Systems (CS) Lecture+Tutorial",
+    "subject": "IT2042",
+    "teacher_ids": ["FA0000130"],
+    "subgroup_ids": ["Y2S2.CS.1", "Y2S2.CS.2", "Y2S2.CS.3"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-130",
+    "name": "Database Management Systems (CS) Lab",
+    "subject": "IT2042",
+    "teacher_ids": ["FA0000131", "FA0000132"],
+    "subgroup_ids": ["Y2S2.CS.1", "Y2S2.CS.2", "Y2S2.CS.3"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-131",
+    "name": "Information Systems Project (ISE) Lecture+Tutorial",
+    "subject": "IE2051",
+    "teacher_ids": ["FA0000037"],
+    "subgroup_ids": ["Y2S2.ISE.1", "Y2S2.ISE.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-132",
+    "name": "Information Systems Project (ISE) Lab",
+    "subject": "IE2051",
+    "teacher_ids": ["FA0000038", "FA0000039"],
+    "subgroup_ids": ["Y2S2.ISE.1", "Y2S2.ISE.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-133",
+    "name": "Information Systems Project (IM) Lecture+Tutorial",
+    "subject": "IE2051",
+    "teacher_ids": ["FA0000079"],
+    "subgroup_ids": ["Y2S2.IM.1", "Y2S2.IM.2", "Y2S2.IM.3"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-134",
+    "name": "Information Systems Project (IM) Lab",
+    "subject": "IE2051",
+    "teacher_ids": ["FA0000174", "FA0000038"],
+    "subgroup_ids": ["Y2S2.IM.1", "Y2S2.IM.2", "Y2S2.IM.3"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-135",
+    "name": "Design and Management of Computing Infrastructure (IT) Lecture+Tutorial",
+    "subject": "IT2071",
+    "teacher_ids": ["FA0000025"],
+    "subgroup_ids": ["Y2S2.IT.1", "Y2S2.IT.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-136",
+    "name": "Design and Management of Computing Infrastructure (IT) Lab",
+    "subject": "IT2071",
+    "teacher_ids": ["FA0000068", "IN0000008"],
+    "subgroup_ids": ["Y2S2.IT.1", "Y2S2.IT.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-137",
+    "name": "Design and Management of Computing Infrastructure (IM) Lecture+Tutorial",
+    "subject": "IT2071",
+    "teacher_ids": ["FA0000023"],
+    "subgroup_ids": ["Y2S2.IM.1", "Y2S2.IM.2", "Y2S2.IM.3"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-138",
+    "name": "Design and Management of Computing Infrastructure (IM) Lab",
+    "subject": "IT2071",
+    "teacher_ids": ["FA0000068", "FA0000116"],
+    "subgroup_ids": ["Y2S2.IM.1", "Y2S2.IM.2", "Y2S2.IM.3"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-139",
+    "name": "Structured Analysis and Design (ISE) Lecture+Tutorial",
+    "subject": "IE2032",
+    "teacher_ids": ["FA0000046"],
+    "subgroup_ids": ["Y2S2.ISE.1", "Y2S2.ISE.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-140",
+    "name": "Structured Analysis and Design (ISE) Lab",
+    "subject": "IE2032",
+    "teacher_ids": ["FA0000095", "FA0000136"],
+    "subgroup_ids": ["Y2S2.ISE.1", "Y2S2.ISE.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-141",
+    "name": "Structured Analysis and Design (SE) Lecture+Tutorial",
+    "subject": "IE2032",
+    "teacher_ids": ["FA0000138"],
+    "subgroup_ids": ["Y2S2.SE.1", "Y2S2.SE.2", "Y2S2.SE.3", "Y2S2.SE.4"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-142",
+    "name": "Structured Analysis and Design (SE) Lab",
+    "subject": "IE2032",
+    "teacher_ids": ["FA0000143", "FA0000046"],
+    "subgroup_ids": ["Y2S2.SE.1", "Y2S2.SE.2", "Y2S2.SE.3", "Y2S2.SE.4"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-143",
+    "name": "Information Systems Analysis (ISE) Lecture+Tutorial",
+    "subject": "IE2041",
+    "teacher_ids": ["FA0000185"],
+    "subgroup_ids": ["Y2S2.ISE.1", "Y2S2.ISE.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-144",
+    "name": "Information Systems Analysis (ISE) Lab",
+    "subject": "IE2041",
+    "teacher_ids": ["FA0000035", "FA0000090"],
+    "subgroup_ids": ["Y2S2.ISE.1", "Y2S2.ISE.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-145",
+    "name": "Information Systems Analysis (IM) Lecture+Tutorial",
+    "subject": "IE2041",
+    "teacher_ids": ["FA0000103"],
+    "subgroup_ids": ["Y2S2.IM.1", "Y2S2.IM.2", "Y2S2.IM.3"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-146",
+    "name": "Information Systems Analysis (IM) Lab",
+    "subject": "IE2041",
+    "teacher_ids": ["FA0000105", "IN0000029"],
+    "subgroup_ids": ["Y2S2.IM.1", "Y2S2.IM.2", "Y2S2.IM.3"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-147",
+    "name": "Advanced Networking Technologies (ISE) Lecture+Tutorial",
+    "subject": "IE2052",
+    "teacher_ids": ["FA0000117"],
+    "subgroup_ids": ["Y2S2.ISE.1", "Y2S2.ISE.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-148",
+    "name": "Advanced Networking Technologies (ISE) Lab",
+    "subject": "IE2052",
+    "teacher_ids": ["IN0000009", "FA0000070"],
+    "subgroup_ids": ["Y2S2.ISE.1", "Y2S2.ISE.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-149",
+    "name": "Web Security (ISE) Lecture+Tutorial",
+    "subject": "IE2062",
+    "teacher_ids": ["FA0000005"],
+    "subgroup_ids": ["Y2S2.ISE.1", "Y2S2.ISE.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-150",
+    "name": "Web Security (ISE) Lab",
+    "subject": "IE2062",
+    "teacher_ids": ["FA0000014", "FA0000015"],
+    "subgroup_ids": ["Y2S2.ISE.1", "Y2S2.ISE.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-151",
+    "name": "Web Security (CS) Lecture+Tutorial",
+    "subject": "IE2062",
+    "teacher_ids": ["FA0000014"],
+    "subgroup_ids": ["Y2S2.CS.1", "Y2S2.CS.2", "Y2S2.CS.3"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-152",
+    "name": "Web Security (CS) Lab",
+    "subject": "IE2062",
+    "teacher_ids": ["FA0000015", "FA0000075"],
+    "subgroup_ids": ["Y2S2.CS.1", "Y2S2.CS.2", "Y2S2.CS.3"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-153",
+    "name": "Discrete Mathematics (ISE) Lecture+Tutorial",
+    "subject": "IE2082",
+    "teacher_ids": ["FA0000157"],
+    "subgroup_ids": ["Y2S2.ISE.1", "Y2S2.ISE.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-154",
+    "name": "Discrete Mathematics (ISE) Lab",
+    "subject": "IE2082",
+    "teacher_ids": ["IN0000017", "IN0000019"],
+    "subgroup_ids": ["Y2S2.ISE.1", "Y2S2.ISE.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-155",
+    "name": "Discrete Mathematics (SE) Lecture+Tutorial",
+    "subject": "IE2082",
+    "teacher_ids": ["FA0000062"],
+    "subgroup_ids": ["Y2S2.SE.1", "Y2S2.SE.2", "Y2S2.SE.3", "Y2S2.SE.4"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-156",
+    "name": "Discrete Mathematics (SE) Lab",
+    "subject": "IE2082",
+    "teacher_ids": ["IN0000001", "IN0000017"],
+    "subgroup_ids": ["Y2S2.SE.1", "Y2S2.SE.2", "Y2S2.SE.3", "Y2S2.SE.4"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-157",
+    "name": "Foundations of Algorithms (ISE) Lecture+Tutorial",
+    "subject": "IE2072",
+    "teacher_ids": ["FA0000067"],
+    "subgroup_ids": ["Y1S2.ISE.1", "Y1S2.ISE.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-158",
+    "name": "Foundations of Algorithms (ISE) Lab",
+    "subject": "IE2072",
+    "teacher_ids": ["FA0000179", "FA0000084"],
+    "subgroup_ids": ["Y1S2.ISE.1", "Y1S2.ISE.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-159",
+    "name": "Foundations of Algorithms (CS) Lecture+Tutorial",
+    "subject": "IE2072",
+    "teacher_ids": ["FA0000179"],
+    "subgroup_ids": ["Y1S2.CS.1", "Y1S2.CS.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-160",
+    "name": "Foundations of Algorithms (CS) Lab",
+    "subject": "IE2072",
+    "teacher_ids": ["IN0000023", "FA0000067"],
+    "subgroup_ids": ["Y1S2.CS.1", "Y1S2.CS.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-161",
+    "name": "Employability Skills Development (IT) Lecture+Tutorial",
+    "subject": "IT2100",
+    "teacher_ids": ["FA0000080"],
+    "subgroup_ids": ["Y2S2.IT.1", "Y2S2.IT.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-162",
+    "name": "Employability Skills Development (IT) Lab",
+    "subject": "IT2100",
+    "teacher_ids": ["FA0000175", "FA0000127"],
+    "subgroup_ids": ["Y2S2.IT.1", "Y2S2.IT.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-163",
+    "name": "Employability Skills Development (IM) Lecture+Tutorial",
+    "subject": "IT2100",
+    "teacher_ids": ["FA0000175"],
+    "subgroup_ids": ["Y2S2.IM.1", "Y2S2.IM.2", "Y2S2.IM.3"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-164",
+    "name": "Employability Skills Development (IM) Lab",
+    "subject": "IT2100",
+    "teacher_ids": ["IN0000019", "FA0000043"],
+    "subgroup_ids": ["Y2S2.IM.1", "Y2S2.IM.2", "Y2S2.IM.3"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-165",
+    "name": "Network Design and Management* (IT) Lecture+Tutorial",
+    "subject": "IT3010",
+    "teacher_ids": ["FA0000091"],
+    "subgroup_ids": ["Y3S1.IT.1", "Y3S1.IT.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-166",
+    "name": "Network Design and Management* (IT) Lab",
+    "subject": "IT3010",
+    "teacher_ids": ["FA0000186", "FA0000112"],
+    "subgroup_ids": ["Y3S1.IT.1", "Y3S1.IT.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-167",
+    "name": "Network Design and Management* (ISE) Lecture+Tutorial",
+    "subject": "IT3010",
+    "teacher_ids": ["FA0000114"],
+    "subgroup_ids": ["Y3S1.ISE.1", "Y3S1.ISE.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-168",
+    "name": "Network Design and Management* (ISE) Lab",
+    "subject": "IT3010",
+    "teacher_ids": ["FA0000186", "IN0000031"],
+    "subgroup_ids": ["Y3S1.ISE.1", "Y3S1.ISE.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-169",
+    "name": "Database Systems (IT) Lecture+Tutorial",
+    "subject": "IT3020",
+    "teacher_ids": ["FA0000180"],
+    "subgroup_ids": ["Y3S2.IT.1", "Y3S2.IT.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-170",
+    "name": "Database Systems (IT) Lab",
+    "subject": "IT3020",
+    "teacher_ids": ["FA0000197", "FA0000150"],
+    "subgroup_ids": ["Y3S2.IT.1", "Y3S2.IT.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-171",
+    "name": "Database Systems (CS) Lecture+Tutorial",
+    "subject": "IT3020",
+    "teacher_ids": ["FA0000197"],
+    "subgroup_ids": ["Y3S2.CS.1", "Y3S2.CS.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-172",
+    "name": "Database Systems (CS) Lab",
+    "subject": "IT3020",
+    "teacher_ids": ["FA0000055", "FA0000178"],
+    "subgroup_ids": ["Y3S2.CS.1", "Y3S2.CS.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-173",
+    "name": "Programming Applications and Frameworks (IT) Lecture+Tutorial",
+    "subject": "IT3030",
+    "teacher_ids": ["FA0000162"],
+    "subgroup_ids": ["Y3S1.IT.1", "Y3S1.IT.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-174",
+    "name": "Programming Applications and Frameworks (IT) Lab",
+    "subject": "IT3030",
+    "teacher_ids": ["FA0000016", "IN0000006"],
+    "subgroup_ids": ["Y3S1.IT.1", "Y3S1.IT.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-175",
+    "name": "Programming Applications and Frameworks (SE) Lecture+Tutorial",
+    "subject": "IT3030",
+    "teacher_ids": ["FA0000162"],
+    "subgroup_ids": ["Y3S1.SE.1", "Y3S1.SE.2", "Y3S1.SE.3", "Y3S1.SE.4"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-176",
+    "name": "Programming Applications and Frameworks (SE) Lab",
+    "subject": "IT3030",
+    "teacher_ids": ["FA0000015", "FA0000016"],
+    "subgroup_ids": ["Y3S1.SE.1", "Y3S1.SE.2", "Y3S1.SE.3", "Y3S1.SE.4"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-177",
+    "name": "IT Project Management (IT) Lecture+Tutorial",
+    "subject": "IT3040",
+    "teacher_ids": ["FA0000119"],
+    "subgroup_ids": ["Y3S2.IT.1", "Y3S2.IT.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-178",
+    "name": "IT Project Management (IT) Lab",
+    "subject": "IT3040",
+    "teacher_ids": ["IN0000011", "FA0000167"],
+    "subgroup_ids": ["Y3S2.IT.1", "Y3S2.IT.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-179",
+    "name": "IT Project Management (IM) Lecture+Tutorial",
+    "subject": "IT3040",
+    "teacher_ids": ["FA0000044"],
+    "subgroup_ids": ["Y3S2.IM.1", "Y3S2.IM.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-180",
+    "name": "IT Project Management (IM) Lab",
+    "subject": "IT3040",
+    "teacher_ids": ["IN0000011", "FA0000045"],
+    "subgroup_ids": ["Y3S2.IM.1", "Y3S2.IM.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-181",
+    "name": "Employability Skills Development Seminar (IT) Lecture+Tutorial",
+    "subject": "IT3050",
+    "teacher_ids": ["FA0000054"],
+    "subgroup_ids": ["Y3S1.IT.1", "Y3S1.IT.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-182",
+    "name": "Employability Skills Development Seminar (IT) Lab",
+    "subject": "IT3050",
+    "teacher_ids": ["FA0000172", "FA0000196"],
+    "subgroup_ids": ["Y3S1.IT.1", "Y3S1.IT.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-183",
+    "name": "Employability Skills Development Seminar (IM) Lecture+Tutorial",
+    "subject": "IT3050",
+    "teacher_ids": ["FA0000149"],
+    "subgroup_ids": ["Y3S1.IM.1", "Y3S1.IM.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-184",
+    "name": "Employability Skills Development Seminar (IM) Lab",
+    "subject": "IT3050",
+    "teacher_ids": ["FA0000172", "FA0000173"],
+    "subgroup_ids": ["Y3S1.IM.1", "Y3S1.IM.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-185",
+    "name": "Applied Information Assurance (ISE) Lecture+Tutorial",
+    "subject": "IE3022",
+    "teacher_ids": ["FA0000058"],
+    "subgroup_ids": ["Y1S2.ISE.1", "Y1S2.ISE.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-186",
+    "name": "Applied Information Assurance (ISE) Lab",
+    "subject": "IE3022",
+    "teacher_ids": ["FA0000200", "FA0000153"],
+    "subgroup_ids": ["Y1S2.ISE.1", "Y1S2.ISE.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-187",
+    "name": "Applied Information Assurance (CS) Lecture+Tutorial",
+    "subject": "IE3022",
+    "teacher_ids": ["FA0000196"],
+    "subgroup_ids": ["Y1S2.CS.1", "Y1S2.CS.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-188",
+    "name": "Applied Information Assurance (CS) Lab",
+    "subject": "IE3022",
+    "teacher_ids": ["FA0000198", "FA0000200"],
+    "subgroup_ids": ["Y1S2.CS.1", "Y1S2.CS.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-189",
+    "name": "Network Security (ISE) Lecture+Tutorial",
+    "subject": "IE3032",
+    "teacher_ids": ["FA0000092"],
+    "subgroup_ids": ["Y3S1.ISE.1", "Y3S1.ISE.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-190",
+    "name": "Network Security (ISE) Lab",
+    "subject": "IE3032",
+    "teacher_ids": ["FA0000115", "FA0000039"],
+    "subgroup_ids": ["Y3S1.ISE.1", "Y3S1.ISE.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-191",
+    "name": "Network Security (CS) Lecture+Tutorial",
+    "subject": "IE3032",
+    "teacher_ids": ["FA0000115"],
+    "subgroup_ids": ["Y3S1.CS.1", "Y3S1.CS.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-192",
+    "name": "Network Security (CS) Lab",
+    "subject": "IE3032",
+    "teacher_ids": ["FA0000092", "FA0000117"],
+    "subgroup_ids": ["Y3S1.CS.1", "Y3S1.CS.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-193",
+    "name": "Secure Software Systems (ISE) Lecture+Tutorial",
+    "subject": "IE3042",
+    "teacher_ids": ["FA0000029"],
+    "subgroup_ids": ["Y1S2.ISE.1", "Y1S2.ISE.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-194",
+    "name": "Secure Software Systems (ISE) Lab",
+    "subject": "IE3042",
+    "teacher_ids": ["FA0000085", "FA0000086"],
+    "subgroup_ids": ["Y1S2.ISE.1", "Y1S2.ISE.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-195",
+    "name": "Secure Software Systems (CS) Lecture+Tutorial",
+    "subject": "IE3042",
+    "teacher_ids": ["FA0000085"],
+    "subgroup_ids": ["Y1S2.CS.1", "Y1S2.CS.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-196",
+    "name": "Secure Software Systems (CS) Lab",
+    "subject": "IE3042",
+    "teacher_ids": ["IN0000026", "FA0000086"],
+    "subgroup_ids": ["Y1S2.CS.1", "Y1S2.CS.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-197",
+    "name": "Information Security Risk Management (ISE) Lecture+Tutorial",
+    "subject": "IE3052",
+    "teacher_ids": ["FA0000081"],
+    "subgroup_ids": ["Y1S2.ISE.1", "Y1S2.ISE.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-198",
+    "name": "Information Security Risk Management (ISE) Lab",
+    "subject": "IE3052",
+    "teacher_ids": ["FA0000128", "FA0000176"],
+    "subgroup_ids": ["Y1S2.ISE.1", "Y1S2.ISE.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-199",
+    "name": "Information Security Risk Management (CS) Lecture+Tutorial",
+    "subject": "IE3052",
+    "teacher_ids": ["FA0000017"],
+    "subgroup_ids": ["Y1S2.CS.1", "Y1S2.CS.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-200",
+    "name": "Information Security Risk Management (CS) Lab",
+    "subject": "IE3052",
+    "teacher_ids": ["IN0000020", "FA0000049"],
+    "subgroup_ids": ["Y1S2.CS.1", "Y1S2.CS.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-201",
+    "name": "Employability Skills Development Seminar (IT) Lecture+Tutorial",
+    "subject": "IT3053",
+    "teacher_ids": ["FA0000125"],
+    "subgroup_ids": ["Y3S2.IT.1", "Y3S2.IT.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-202",
+    "name": "Employability Skills Development Seminar (IT) Lab",
+    "subject": "IT3053",
+    "teacher_ids": ["FA0000042", "FA0000124"],
+    "subgroup_ids": ["Y3S2.IT.1", "Y3S2.IT.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-203",
+    "name": "Employability Skills Development Seminar (IM) Lecture+Tutorial",
+    "subject": "IT3053",
+    "teacher_ids": ["FA0000141"],
+    "subgroup_ids": ["Y3S2.IM.1", "Y3S2.IM.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-204",
+    "name": "Employability Skills Development Seminar (IM) Lab",
+    "subject": "IT3053",
+    "teacher_ids": ["FA0000188", "IN0000033"],
+    "subgroup_ids": ["Y3S2.IM.1", "Y3S2.IM.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-205",
+    "name": "Mobile Security (ISE) Lecture+Tutorial",
+    "subject": "IE3112",
+    "teacher_ids": ["FA0000040"],
+    "subgroup_ids": ["Y3S1.ISE.1", "Y3S1.ISE.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-206",
+    "name": "Mobile Security (ISE) Lab",
+    "subject": "IE3112",
+    "teacher_ids": ["FA0000118", "FA0000166"],
+    "subgroup_ids": ["Y3S1.ISE.1", "Y3S1.ISE.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-207",
+    "name": "Mobile Security (CS) Lecture+Tutorial",
+    "subject": "IE3112",
+    "teacher_ids": ["FA0000071"],
+    "subgroup_ids": ["Y3S1.CS.1", "Y3S1.CS.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-208",
+    "name": "Mobile Security (CS) Lab",
+    "subject": "IE3112",
+    "teacher_ids": ["IN0000010", "FA0000118"],
+    "subgroup_ids": ["Y3S1.CS.1", "Y3S1.CS.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-209",
+    "name": "Technical Evolution of Multimedia (SE) Lecture+Tutorial",
+    "subject": "SE3011",
+    "teacher_ids": ["FA0000048"],
+    "subgroup_ids": ["Y3S1.SE.1", "Y3S1.SE.2", "Y3S1.SE.3", "Y3S1.SE.4"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-210",
+    "name": "Technical Evolution of Multimedia (SE) Lab",
+    "subject": "SE3011",
+    "teacher_ids": ["FA0000128", "IN0000020"],
+    "subgroup_ids": ["Y3S1.SE.1", "Y3S1.SE.2", "Y3S1.SE.3", "Y3S1.SE.4"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-211",
+    "name": "Design Ideation and Creative Communication (SE) Lecture+Tutorial",
+    "subject": "SE3021",
+    "teacher_ids": ["FA0000027"],
+    "subgroup_ids": ["Y3S1.SE.1", "Y3S1.SE.2", "Y3S1.SE.3", "Y3S1.SE.4"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-212",
+    "name": "Design Ideation and Creative Communication (SE) Lab",
+    "subject": "SE3021",
+    "teacher_ids": ["IN0000025", "FA0000133"],
+    "subgroup_ids": ["Y3S1.SE.1", "Y3S1.SE.2", "Y3S1.SE.3", "Y3S1.SE.4"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-213",
+    "name": "User Experience Design (SE) Lecture+Tutorial",
+    "subject": "SE3061",
+    "teacher_ids": ["FA0000059"],
+    "subgroup_ids": ["Y1S2.SE.1", "Y1S2.SE.2", "Y1S2.SE.3", "Y1S2.SE.4"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-214",
+    "name": "User Experience Design (SE) Lab",
+    "subject": "SE3061",
+    "teacher_ids": ["IN0000002", "IN0000003"],
+    "subgroup_ids": ["Y1S2.SE.1", "Y1S2.SE.2", "Y1S2.SE.3", "Y1S2.SE.4"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-215",
+    "name": "Digital Marketing Strategies (SE) Lecture+Tutorial",
+    "subject": "SE3081",
+    "teacher_ids": ["FA0000019"],
+    "subgroup_ids": ["Y3S1.SE.1", "Y3S1.SE.2", "Y3S1.SE.3", "Y3S1.SE.4"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-216",
+    "name": "Digital Marketing Strategies (SE) Lab",
+    "subject": "SE3081",
+    "teacher_ids": ["IN0000007", "FA0000018"],
+    "subgroup_ids": ["Y3S1.SE.1", "Y3S1.SE.2", "Y3S1.SE.3", "Y3S1.SE.4"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-217",
+    "name": "Employability Skills Development Seminar (IT) Lecture+Tutorial",
+    "subject": "IT3054",
+    "teacher_ids": ["FA0000177"],
+    "subgroup_ids": ["Y1S2.IT.1", "Y1S2.IT.2", "Y1S2.IT.3"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-218",
+    "name": "Employability Skills Development Seminar (IT) Lab",
+    "subject": "IT3054",
+    "teacher_ids": ["FA0000176", "FA0000054"],
+    "subgroup_ids": ["Y1S2.IT.1", "Y1S2.IT.2", "Y1S2.IT.3"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-219",
+    "name": "Employability Skills Development Seminar (IM) Lecture+Tutorial",
+    "subject": "IT3054",
+    "teacher_ids": ["FA0000177"],
+    "subgroup_ids": ["Y1S2.IM.1", "Y1S2.IM.2", "Y1S2.IM.3"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-220",
+    "name": "Employability Skills Development Seminar (IM) Lab",
+    "subject": "IT3054",
+    "teacher_ids": ["FA0000102", "FA0000176"],
+    "subgroup_ids": ["Y1S2.IM.1", "Y1S2.IM.2", "Y1S2.IM.3"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-221",
+    "name": "Wireless Communications (ISE) Lecture+Tutorial",
+    "subject": "IE3050",
+    "teacher_ids": ["FA0000053"],
+    "subgroup_ids": ["Y3S2.ISE.1", "Y3S2.ISE.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-222",
+    "name": "Wireless Communications (ISE) Lab",
+    "subject": "IE3050",
+    "teacher_ids": ["FA0000168", "FA0000166"],
+    "subgroup_ids": ["Y3S2.ISE.1", "Y3S2.ISE.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-223",
+    "name": "Directory Services and Network Management (ISE) Lecture+Tutorial",
+    "subject": "IE3020",
+    "teacher_ids": ["FA0000031"],
+    "subgroup_ids": ["Y3S2.ISE.1", "Y3S2.ISE.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-224",
+    "name": "Directory Services and Network Management (ISE) Lab",
+    "subject": "IE3020",
+    "teacher_ids": ["IN0000027", "FA0000087"],
+    "subgroup_ids": ["Y3S2.ISE.1", "Y3S2.ISE.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-225",
+    "name": "Wide area Networks (ISE) Lecture+Tutorial",
+    "subject": "IE3030",
+    "teacher_ids": ["FA0000065"],
+    "subgroup_ids": ["Y3S2.ISE.1", "Y3S2.ISE.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-226",
+    "name": "Wide area Networks (ISE) Lab",
+    "subject": "IE3030",
+    "teacher_ids": ["FA0000022", "FA0000083"],
+    "subgroup_ids": ["Y3S2.ISE.1", "Y3S2.ISE.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-227",
+    "name": "Information Storage Management (ISE) Lecture+Tutorial",
+    "subject": "IE3040",
+    "teacher_ids": ["FA0000110"],
+    "subgroup_ids": ["Y3S2.ISE.1", "Y3S2.ISE.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-228",
+    "name": "Information Storage Management (ISE) Lab",
+    "subject": "IE3040",
+    "teacher_ids": ["IN0000021", "IN0000022"],
+    "subgroup_ids": ["Y3S2.ISE.1", "Y3S2.ISE.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-229",
+    "name": "Employability Skills Development Seminar (IT) Lecture+Tutorial",
+    "subject": "IT3055",
+    "teacher_ids": ["FA0000106"],
+    "subgroup_ids": ["Y1S2.IT.1", "Y1S2.IT.2", "Y1S2.IT.3"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-230",
+    "name": "Employability Skills Development Seminar (IT) Lab",
+    "subject": "IT3055",
+    "teacher_ids": ["FA0000120", "FA0000059"],
+    "subgroup_ids": ["Y1S2.IT.1", "Y1S2.IT.2", "Y1S2.IT.3"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-231",
+    "name": "Employability Skills Development Seminar (IM) Lecture+Tutorial",
+    "subject": "IT3055",
+    "teacher_ids": ["FA0000059"],
+    "subgroup_ids": ["Y1S2.IM.1", "Y1S2.IM.2", "Y1S2.IM.3"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-232",
+    "name": "Employability Skills Development Seminar (IM) Lab",
+    "subject": "IT3055",
+    "teacher_ids": ["FA0000118", "FA0000120"],
+    "subgroup_ids": ["Y1S2.IM.1", "Y1S2.IM.2", "Y1S2.IM.3"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-233",
+    "name": "Data Warehousing and Business Intelligence (IT) Lecture+Tutorial",
+    "subject": "IT1131",
+    "teacher_ids": ["FA0000037"],
+    "subgroup_ids": ["Y3S1.IT.1", "Y3S1.IT.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-234",
+    "name": "Data Warehousing and Business Intelligence (IT) Lab",
+    "subject": "IT1131",
+    "teacher_ids": ["IN0000030", "FA0000091"],
+    "subgroup_ids": ["Y3S1.IT.1", "Y3S1.IT.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-235",
+    "name": "Data Warehousing and Business Intelligence (CS) Lecture+Tutorial",
+    "subject": "IT1131",
+    "teacher_ids": ["FA0000111"],
+    "subgroup_ids": ["Y3S1.CS.1", "Y3S1.CS.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-236",
+    "name": "Data Warehousing and Business Intelligence (CS) Lab",
+    "subject": "IT1131",
+    "teacher_ids": ["FA0000186", "IN0000030"],
+    "subgroup_ids": ["Y3S1.CS.1", "Y3S1.CS.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-237",
+    "name": "Data Warehousing and Business Intelligence (IT) Lecture+Tutorial",
+    "subject": "IT1132",
+    "teacher_ids": ["FA0000077"],
+    "subgroup_ids": ["Y3S1.IT.1", "Y3S1.IT.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-238",
+    "name": "Data Warehousing and Business Intelligence (IT) Lab",
+    "subject": "IT1132",
+    "teacher_ids": ["FA0000028", "FA0000029"],
+    "subgroup_ids": ["Y3S1.IT.1", "Y3S1.IT.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-239",
+    "name": "Data Warehousing and Business Intelligence (CS) Lecture+Tutorial",
+    "subject": "IT1132",
+    "teacher_ids": ["FA0000030"],
+    "subgroup_ids": ["Y3S1.CS.1", "Y3S1.CS.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-240",
+    "name": "Data Warehousing and Business Intelligence (CS) Lab",
+    "subject": "IT1132",
+    "teacher_ids": ["FA0000077", "FA0000125"],
+    "subgroup_ids": ["Y3S1.CS.1", "Y3S1.CS.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-241",
+    "name": "Database Systems and Data-Driven Application (IT) Lecture+Tutorial",
+    "subject": "IT1133",
+    "teacher_ids": ["FA0000040"],
+    "subgroup_ids": ["Y3S1.IT.1", "Y3S1.IT.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-242",
+    "name": "Database Systems and Data-Driven Application (IT) Lab",
+    "subject": "IT1133",
+    "teacher_ids": ["IN0000032", "FA0000140"],
+    "subgroup_ids": ["Y3S1.IT.1", "Y3S1.IT.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-243",
+    "name": "Database Systems and Data-Driven Application (CS) Lecture+Tutorial",
+    "subject": "IT1133",
+    "teacher_ids": ["FA0000187"],
+    "subgroup_ids": ["Y3S1.CS.1", "Y3S1.CS.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-244",
+    "name": "Database Systems and Data-Driven Application (CS) Lab",
+    "subject": "IT1133",
+    "teacher_ids": ["IN0000032", "FA0000092"],
+    "subgroup_ids": ["Y3S1.CS.1", "Y3S1.CS.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-245",
+    "name": "Theory and Practices in Statistical Modelling (IT) Lecture+Tutorial",
+    "subject": "IT1134",
+    "teacher_ids": ["FA0000160"],
+    "subgroup_ids": ["Y3S1.IT.1", "Y3S1.IT.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-246",
+    "name": "Theory and Practices in Statistical Modelling (IT) Lab",
+    "subject": "IT1134",
+    "teacher_ids": ["FA0000194", "FA0000052"],
+    "subgroup_ids": ["Y3S1.IT.1", "Y3S1.IT.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-247",
+    "name": "Theory and Practices in Statistical Modelling (CS) Lecture+Tutorial",
+    "subject": "IT1134",
+    "teacher_ids": ["FA0000160"],
+    "subgroup_ids": ["Y3S1.CS.1", "Y3S1.CS.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-248",
+    "name": "Theory and Practices in Statistical Modelling (CS) Lab",
+    "subject": "IT1134",
+    "teacher_ids": ["FA0000161", "FA0000099"],
+    "subgroup_ids": ["Y3S1.CS.1", "Y3S1.CS.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-249",
+    "name": "Employability Skills Development Seminar (IT) Lecture+Tutorial",
+    "subject": "IT1135",
+    "teacher_ids": ["FA0000151"],
+    "subgroup_ids": ["Y3S1.IT.1", "Y3S1.IT.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-250",
+    "name": "Employability Skills Development Seminar (IT) Lab",
+    "subject": "IT1135",
+    "teacher_ids": ["FA0000056", "FA0000184"],
+    "subgroup_ids": ["Y3S1.IT.1", "Y3S1.IT.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-251",
+    "name": "Employability Skills Development Seminar (IM) Lecture+Tutorial",
+    "subject": "IT1135",
+    "teacher_ids": ["FA0000185"],
+    "subgroup_ids": ["Y3S1.IM.1", "Y3S1.IM.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-252",
+    "name": "Employability Skills Development Seminar (IM) Lab",
+    "subject": "IT1135",
+    "teacher_ids": ["FA0000198", "FA0000056"],
+    "subgroup_ids": ["Y3S1.IM.1", "Y3S1.IM.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-253",
+    "name": "Research Project (IT) Lecture+Tutorial",
+    "subject": "IT4010",
+    "teacher_ids": ["FA0000096"],
+    "subgroup_ids": ["Y4S1.IT.1", "Y4S1.IT.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-254",
+    "name": "Research Project (IT) Lab",
+    "subject": "IT4010",
+    "teacher_ids": ["FA0000142", "FA0000144"],
+    "subgroup_ids": ["Y4S1.IT.1", "Y4S1.IT.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-255",
+    "name": "Research Project (SE) Lecture+Tutorial",
+    "subject": "IT4010",
+    "teacher_ids": ["FA0000145"],
+    "subgroup_ids": ["Y4S1.SE.1", "Y4S1.SE.2", "Y4S1.SE.3", "Y4S1.SE.4"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-256",
+    "name": "Research Project (SE) Lab",
+    "subject": "IT4010",
+    "teacher_ids": ["FA0000191", "FA0000142"],
+    "subgroup_ids": ["Y4S1.SE.1", "Y4S1.SE.2", "Y4S1.SE.3", "Y4S1.SE.4"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-257",
+    "name": "Modern Topics in IT (IT) Lecture+Tutorial",
+    "subject": "IT4020",
+    "teacher_ids": ["FA0000020"],
+    "subgroup_ids": ["Y4S1.IT.1", "Y4S1.IT.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-258",
+    "name": "Modern Topics in IT (IT) Lab",
+    "subject": "IT4020",
+    "teacher_ids": ["FA0000058", "FA0000060"],
+    "subgroup_ids": ["Y4S1.IT.1", "Y4S1.IT.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-259",
+    "name": "Preparation for the Professional World (IT) Lecture+Tutorial",
+    "subject": "IT4070",
+    "teacher_ids": ["FA0000169"],
+    "subgroup_ids": ["Y4S2.IT.1", "Y4S2.IT.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-260",
+    "name": "Preparation for the Professional World (IT) Lab",
+    "subject": "IT4070",
+    "teacher_ids": ["FA0000170", "FA0000171"],
+    "subgroup_ids": ["Y4S2.IT.1", "Y4S2.IT.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-261",
+    "name": "Preparation for the Professional World (IM) Lecture+Tutorial",
+    "subject": "IT4070",
+    "teacher_ids": ["FA0000053"],
+    "subgroup_ids": ["Y4S2.IM.1", "Y4S2.IM.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-262",
+    "name": "Preparation for the Professional World (IM) Lab",
+    "subject": "IT4070",
+    "teacher_ids": ["FA0000148", "FA0000169"],
+    "subgroup_ids": ["Y4S2.IM.1", "Y4S2.IM.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-263",
+    "name": "Industry Placement - 6 Months (IT) Lecture+Tutorial",
+    "subject": "IT4140",
+    "teacher_ids": ["FA0000108"],
+    "subgroup_ids": ["Y4S1.IT.1", "Y4S1.IT.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-264",
+    "name": "Industry Placement - 6 Months (IT) Lab",
+    "subject": "IT4140",
+    "teacher_ids": ["IN0000008", "IN0000009"],
+    "subgroup_ids": ["Y4S1.IT.1", "Y4S1.IT.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-265",
+    "name": "Industry Placement - 6 Months (IM) Lecture+Tutorial",
+    "subject": "IT4140",
+    "teacher_ids": ["FA0000060"],
+    "subgroup_ids": ["Y4S1.IM.1", "Y4S1.IM.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-266",
+    "name": "Industry Placement - 6 Months (IM) Lab",
+    "subject": "IT4140",
+    "teacher_ids": ["IN0000010", "IN0000008"],
+    "subgroup_ids": ["Y4S1.IM.1", "Y4S1.IM.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-267",
+    "name": "Computer Systems and Network Administration (IT) Lecture+Tutorial",
+    "subject": "IT4110",
+    "teacher_ids": ["FA0000199"],
+    "subgroup_ids": ["Y4S1.IT.1", "Y4S1.IT.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-268",
+    "name": "Computer Systems and Network Administration (IT) Lab",
+    "subject": "IT4110",
+    "teacher_ids": ["FA0000153", "FA0000200"],
+    "subgroup_ids": ["Y4S1.IT.1", "Y4S1.IT.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-269",
+    "name": "Computer Systems and Network Administration (ISE) Lecture+Tutorial",
+    "subject": "IT4110",
+    "teacher_ids": ["FA0000058"],
+    "subgroup_ids": ["Y4S1.ISE.1", "Y4S1.ISE.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-270",
+    "name": "Computer Systems and Network Administration (ISE) Lab",
+    "subject": "IT4110",
+    "teacher_ids": ["FA0000106", "FA0000199"],
+    "subgroup_ids": ["Y4S1.ISE.1", "Y4S1.ISE.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-271",
+    "name": "Machine Learning (IT) Lecture+Tutorial",
+    "subject": "IT4060",
+    "teacher_ids": ["FA0000002"],
+    "subgroup_ids": ["Y4S2.IT.1", "Y4S2.IT.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-272",
+    "name": "Machine Learning (IT) Lab",
+    "subject": "IT4060",
+    "teacher_ids": ["IN0000013", "FA0000074"],
+    "subgroup_ids": ["Y4S2.IT.1", "Y4S2.IT.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-273",
+    "name": "Machine Learning (CS) Lecture+Tutorial",
+    "subject": "IT4060",
+    "teacher_ids": ["FA0000002"],
+    "subgroup_ids": ["Y4S2.CS.1", "Y4S2.CS.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-274",
+    "name": "Machine Learning (CS) Lab",
+    "subject": "IT4060",
+    "teacher_ids": ["IN0000013", "FA0000007"],
+    "subgroup_ids": ["Y4S2.CS.1", "Y4S2.CS.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-275",
+    "name": "Software Quality Assurance (IT) Lecture+Tutorial",
+    "subject": "IT4100",
+    "teacher_ids": ["FA0000097"],
+    "subgroup_ids": ["Y4S2.IT.1", "Y4S2.IT.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-276",
+    "name": "Software Quality Assurance (IT) Lab",
+    "subject": "IT4100",
+    "teacher_ids": ["FA0000192", "FA0000049"],
+    "subgroup_ids": ["Y4S2.IT.1", "Y4S2.IT.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-277",
+    "name": "Software Quality Assurance (SE) Lecture+Tutorial",
+    "subject": "IT4100",
+    "teacher_ids": ["FA0000144"],
+    "subgroup_ids": ["Y4S2.SE.1", "Y4S2.SE.2", "Y4S2.SE.3", "Y4S2.SE.4"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-278",
+    "name": "Software Quality Assurance (SE) Lab",
+    "subject": "IT4100",
+    "teacher_ids": ["FA0000146", "FA0000147"],
+    "subgroup_ids": ["Y4S2.SE.1", "Y4S2.SE.2", "Y4S2.SE.3", "Y4S2.SE.4"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-279",
+    "name": "Information Assurance and Auditing (ISE) Lecture+Tutorial",
+    "subject": "IE4040",
+    "teacher_ids": ["FA0000078"],
+    "subgroup_ids": ["Y4S1.ISE.1", "Y4S1.ISE.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-280",
+    "name": "Information Assurance and Auditing (ISE) Lab",
+    "subject": "IE4040",
+    "teacher_ids": ["FA0000031", "FA0000032"],
+    "subgroup_ids": ["Y4S1.ISE.1", "Y4S1.ISE.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-281",
+    "name": "Information Assurance and Auditing (CS) Lecture+Tutorial",
+    "subject": "IE4040",
+    "teacher_ids": ["FA0000033"],
+    "subgroup_ids": ["Y4S1.CS.1", "Y4S1.CS.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-282",
+    "name": "Information Assurance and Auditing (CS) Lab",
+    "subject": "IE4040",
+    "teacher_ids": ["FA0000011", "FA0000173"],
+    "subgroup_ids": ["Y4S1.CS.1", "Y4S1.CS.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-283",
+    "name": "Image Understanding & Processing (IT) Lecture+Tutorial",
+    "subject": "IT4130",
+    "teacher_ids": ["FA0000004"],
+    "subgroup_ids": ["Y4S2.IT.1", "Y4S2.IT.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-284",
+    "name": "Image Understanding & Processing (IT) Lab",
+    "subject": "IT4130",
+    "teacher_ids": ["FA0000073", "FA0000168"],
+    "subgroup_ids": ["Y4S2.IT.1", "Y4S2.IT.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-285",
+    "name": "Image Understanding & Processing (CS) Lecture+Tutorial",
+    "subject": "IT4130",
+    "teacher_ids": ["FA0000073"],
+    "subgroup_ids": ["Y4S2.CS.1", "Y4S2.CS.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-286",
+    "name": "Image Understanding & Processing (CS) Lab",
+    "subject": "IT4130",
+    "teacher_ids": ["FA0000001", "FA0000004"],
+    "subgroup_ids": ["Y4S2.CS.1", "Y4S2.CS.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-287",
+    "name": "Business Process Management (ISE) Lecture+Tutorial",
+    "subject": "IE4011",
+    "teacher_ids": ["FA0000036"],
+    "subgroup_ids": ["Y4S1.ISE.1", "Y4S1.ISE.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-288",
+    "name": "Business Process Management (ISE) Lab",
+    "subject": "IE4011",
+    "teacher_ids": ["FA0000165", "FA0000035"],
+    "subgroup_ids": ["Y4S1.ISE.1", "Y4S1.ISE.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-289",
+    "name": "Business Process Management (IM) Lecture+Tutorial",
+    "subject": "IE4011",
+    "teacher_ids": ["FA0000070"],
+    "subgroup_ids": ["Y4S1.IM.1", "Y4S1.IM.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-290",
+    "name": "Business Process Management (IM) Lab",
+    "subject": "IE4011",
+    "teacher_ids": ["IN0000010", "FA0000165"],
+    "subgroup_ids": ["Y4S1.IM.1", "Y4S1.IM.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-291",
+    "name": "Human Resource Information Systems (ISE) Lecture+Tutorial",
+    "subject": "IE4151",
+    "teacher_ids": ["FA0000129"],
+    "subgroup_ids": ["Y4S1.ISE.1", "Y4S1.ISE.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-292",
+    "name": "Human Resource Information Systems (ISE) Lab",
+    "subject": "IE4151",
+    "teacher_ids": ["IN0000021", "FA0000081"],
+    "subgroup_ids": ["Y4S1.ISE.1", "Y4S1.ISE.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-293",
+    "name": "Human Resource Information Systems (IM) Lecture+Tutorial",
+    "subject": "IE4151",
+    "teacher_ids": ["FA0000129"],
+    "subgroup_ids": ["Y4S1.IM.1", "Y4S1.IM.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-294",
+    "name": "Human Resource Information Systems (IM) Lab",
+    "subject": "IE4151",
+    "teacher_ids": ["IN0000021", "FA0000018"],
+    "subgroup_ids": ["Y4S1.IM.1", "Y4S1.IM.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-295",
+    "name": "Information Security Management (ISE) Lecture+Tutorial",
+    "subject": "IE4010",
+    "teacher_ids": ["FA0000026"],
+    "subgroup_ids": ["Y4S2.ISE.1", "Y4S2.ISE.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-296",
+    "name": "Information Security Management (ISE) Lab",
+    "subject": "IE4010",
+    "teacher_ids": ["IN0000025", "FA0000076"],
+    "subgroup_ids": ["Y4S2.ISE.1", "Y4S2.ISE.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-297",
+    "name": "Information Security Management (CS) Lecture+Tutorial",
+    "subject": "IE4010",
+    "teacher_ids": ["FA0000180"],
+    "subgroup_ids": ["Y4S2.CS.1", "Y4S2.CS.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-298",
+    "name": "Information Security Management (CS) Lab",
+    "subject": "IE4010",
+    "teacher_ids": ["FA0000133", "IN0000025"],
+    "subgroup_ids": ["Y4S2.CS.1", "Y4S2.CS.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-299",
+    "name": "Software Defined Networks (ISE) Lecture+Tutorial",
+    "subject": "IE4080",
+    "teacher_ids": ["FA0000158"],
+    "subgroup_ids": ["Y4S1.ISE.1", "Y4S1.ISE.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-300",
+    "name": "Software Defined Networks (ISE) Lab",
+    "subject": "IE4080",
+    "teacher_ids": ["IN0000026", "IN0000027"],
+    "subgroup_ids": ["Y4S1.ISE.1", "Y4S1.ISE.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-301",
+    "name": "Software Defined Networks (CS) Lecture+Tutorial",
+    "subject": "IE4080",
+    "teacher_ids": ["FA0000063"],
+    "subgroup_ids": ["Y4S1.CS.1", "Y4S1.CS.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-302",
+    "name": "Software Defined Networks (CS) Lab",
+    "subject": "IE4080",
+    "teacher_ids": ["IN0000028", "IN0000003"],
+    "subgroup_ids": ["Y4S1.CS.1", "Y4S1.CS.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-303",
+    "name": "Games Development (SE) Lecture+Tutorial",
+    "subject": "SE4031",
+    "teacher_ids": ["FA0000003"],
+    "subgroup_ids": ["Y4S1.SE.1", "Y4S1.SE.2", "Y4S1.SE.3", "Y4S1.SE.4"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-304",
+    "name": "Games Development (SE) Lab",
+    "subject": "SE4031",
+    "teacher_ids": ["IN0000012", "FA0000168"],
+    "subgroup_ids": ["Y4S1.SE.1", "Y4S1.SE.2", "Y4S1.SE.3", "Y4S1.SE.4"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-305",
+    "name": "Trends in Digital Media (SE) Lecture+Tutorial",
+    "subject": "SE4051",
+    "teacher_ids": ["FA0000061"],
+    "subgroup_ids": ["Y4S2.SE.1", "Y4S2.SE.2", "Y4S2.SE.3", "Y4S2.SE.4"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-306",
+    "name": "Trends in Digital Media (SE) Lab",
+    "subject": "SE4051",
+    "teacher_ids": ["IN0000012", "FA0000156"],
+    "subgroup_ids": ["Y4S2.SE.1", "Y4S2.SE.2", "Y4S2.SE.3", "Y4S2.SE.4"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-307",
+    "name": "Current Trends in Software Engineering (SE) Lecture+Tutorial",
+    "subject": "SE4010",
+    "teacher_ids": ["FA0000025"],
+    "subgroup_ids": ["Y4S1.SE.1", "Y4S1.SE.2", "Y4S1.SE.3", "Y4S1.SE.4"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-308",
+    "name": "Current Trends in Software Engineering (SE) Lab",
+    "subject": "SE4010",
+    "teacher_ids": ["IN0000024", "FA0000074"],
+    "subgroup_ids": ["Y4S1.SE.1", "Y4S1.SE.2", "Y4S1.SE.3", "Y4S1.SE.4"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-309",
+    "name": "Mobile Application Design & Development (SE) Lecture+Tutorial",
+    "subject": "SE4020",
+    "teacher_ids": ["FA0000021"],
+    "subgroup_ids": ["Y4S1.SE.1", "Y4S1.SE.2", "Y4S1.SE.3", "Y4S1.SE.4"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-310",
+    "name": "Mobile Application Design & Development (SE) Lab",
+    "subject": "SE4020",
+    "teacher_ids": ["FA0000022", "FA0000068"],
+    "subgroup_ids": ["Y4S1.SE.1", "Y4S1.SE.2", "Y4S1.SE.3", "Y4S1.SE.4"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-311",
+    "name": "Internet of Things and Big Data Analytics (IT) Lecture+Tutorial",
+    "subject": "IT4021",
+    "teacher_ids": ["FA0000009"],
+    "subgroup_ids": ["Y4S2.IT.1", "Y4S2.IT.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-312",
+    "name": "Internet of Things and Big Data Analytics (IT) Lab",
+    "subject": "IT4021",
+    "teacher_ids": ["IN0000016", "FA0000124"],
+    "subgroup_ids": ["Y4S2.IT.1", "Y4S2.IT.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-313",
+    "name": "Internet of Things and Big Data Analytics (CS) Lecture+Tutorial",
+    "subject": "IT4021",
+    "teacher_ids": ["FA0000172"],
+    "subgroup_ids": ["Y4S2.CS.1", "Y4S2.CS.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-314",
+    "name": "Internet of Things and Big Data Analytics (CS) Lab",
+    "subject": "IT4021",
+    "teacher_ids": ["IN0000016", "FA0000027"],
+    "subgroup_ids": ["Y4S2.CS.1", "Y4S2.CS.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-315",
+    "name": "Visual Analytics and User Experience Design (IT) Lecture+Tutorial",
+    "subject": "IT4031",
+    "teacher_ids": ["FA0000174"],
+    "subgroup_ids": ["Y4S1.IT.1", "Y4S1.IT.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-316",
+    "name": "Visual Analytics and User Experience Design (IT) Lab",
+    "subject": "IT4031",
+    "teacher_ids": ["FA0000041", "FA0000079"],
+    "subgroup_ids": ["Y4S1.IT.1", "Y4S1.IT.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-317",
+    "name": "Visual Analytics and User Experience Design (CS) Lecture+Tutorial",
+    "subject": "IT4031",
+    "teacher_ids": ["FA0000042"],
+    "subgroup_ids": ["Y4S1.CS.1", "Y4S1.CS.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-318",
+    "name": "Visual Analytics and User Experience Design (CS) Lab",
+    "subject": "IT4031",
+    "teacher_ids": ["FA0000127", "IN0000019"],
+    "subgroup_ids": ["Y4S1.CS.1", "Y4S1.CS.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-319",
+    "name": "Offensive Hacking: Tactical and Strategic (ISE) Lecture+Tutorial",
+    "subject": "IE4012",
+    "teacher_ids": ["FA0000057"],
+    "subgroup_ids": ["Y4S1.ISE.1", "Y4S1.ISE.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-320",
+    "name": "Offensive Hacking: Tactical and Strategic (ISE) Lab",
+    "subject": "IE4012",
+    "teacher_ids": ["FA0000082", "FA0000019"],
+    "subgroup_ids": ["Y4S1.ISE.1", "Y4S1.ISE.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-321",
+    "name": "Offensive Hacking: Tactical and Strategic (CS) Lecture+Tutorial",
+    "subject": "IE4012",
+    "teacher_ids": ["FA0000055"],
+    "subgroup_ids": ["Y4S1.CS.1", "Y4S1.CS.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-322",
+    "name": "Offensive Hacking: Tactical and Strategic (CS) Lab",
+    "subject": "IE4012",
+    "teacher_ids": ["FA0000082", "FA0000057"],
+    "subgroup_ids": ["Y4S1.CS.1", "Y4S1.CS.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-323",
+    "name": "Security Economic Analysis (ISE) Lecture+Tutorial",
+    "subject": "IE4022",
+    "teacher_ids": ["FA0000164"],
+    "subgroup_ids": ["Y4S2.ISE.1", "Y4S2.ISE.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-324",
+    "name": "Security Economic Analysis (ISE) Lab",
+    "subject": "IE4022",
+    "teacher_ids": ["FA0000069", "IN0000009"],
+    "subgroup_ids": ["Y4S2.ISE.1", "Y4S2.ISE.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-325",
+    "name": "Security Economic Analysis (CS) Lecture+Tutorial",
+    "subject": "IE4022",
+    "teacher_ids": ["FA0000029"],
+    "subgroup_ids": ["Y4S2.CS.1", "Y4S2.CS.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-326",
+    "name": "Security Economic Analysis (CS) Lab",
+    "subject": "IE4022",
+    "teacher_ids": ["FA0000031", "FA0000069"],
+    "subgroup_ids": ["Y4S2.CS.1", "Y4S2.CS.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-327",
+    "name": "Cyber Forensics and Incident Response (ISE) Lecture+Tutorial",
+    "subject": "IE4062",
+    "teacher_ids": ["FA0000005"],
+    "subgroup_ids": ["Y4S1.ISE.1", "Y4S1.ISE.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-328",
+    "name": "Cyber Forensics and Incident Response (ISE) Lab",
+    "subject": "IE4062",
+    "teacher_ids": ["FA0000006", "FA0000065"],
+    "subgroup_ids": ["Y4S1.ISE.1", "Y4S1.ISE.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-329",
+    "name": "Cyber Forensics and Incident Response (CS) Lecture+Tutorial",
+    "subject": "IE4062",
+    "teacher_ids": ["FA0000113"],
+    "subgroup_ids": ["Y4S1.CS.1", "Y4S1.CS.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-330",
+    "name": "Cyber Forensics and Incident Response (CS) Lab",
+    "subject": "IE4062",
+    "teacher_ids": ["IN0000005", "FA0000006"],
+    "subgroup_ids": ["Y4S1.CS.1", "Y4S1.CS.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-331",
+    "name": "Machine Learning for Cyber Security (ISE) Lecture+Tutorial",
+    "subject": "IE4092",
+    "teacher_ids": ["FA0000112"],
+    "subgroup_ids": ["Y4S1.ISE.1", "Y4S1.ISE.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-332",
+    "name": "Machine Learning for Cyber Security (ISE) Lab",
+    "subject": "IE4092",
+    "teacher_ids": ["IN0000004", "FA0000004"],
+    "subgroup_ids": ["Y4S1.ISE.1", "Y4S1.ISE.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  },
+  {
+    "code": "AC-333",
+    "name": "Machine Learning for Cyber Security (CS) Lecture+Tutorial",
+    "subject": "IE4092",
+    "teacher_ids": ["FA0000065"],
+    "subgroup_ids": ["Y4S1.CS.1", "Y4S1.CS.2"],
+    "duration": 3,
+    "type": "Lecture+Tutorial",
+    "space_requirements": ["Lecture Hall"]
+  },
+  {
+    "code": "AC-334",
+    "name": "Machine Learning for Cyber Security (CS) Lab",
+    "subject": "IE4092",
+    "teacher_ids": ["IN0000004", "FA0000002"],
+    "subgroup_ids": ["Y4S1.CS.1", "Y4S1.CS.2"],
+    "duration": 2,
+    "type": "Lab",
+    "space_requirements": ["Lab Room"]
+  }
+]
