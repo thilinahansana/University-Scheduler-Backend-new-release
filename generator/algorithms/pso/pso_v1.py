@@ -863,4 +863,8 @@ def generate_pso():
     print("\n=== Final Best Solution (PSO) ===")
     print_solution_stats(global_best_position)
     
+    # Store the latest score in the database
+    from routers.timetable_routes import store_latest_score
+    store_latest_score(global_best_score, "PSO")
+    
     return global_best_position

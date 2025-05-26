@@ -420,13 +420,44 @@ def clean_mongo_documents(doc):
         return str(doc)
     return doc
 
-def store_latest_score(score):
-    db["settings"].update_one(
-        {"option": "latest_score"},
-        {"$set": {"value": score}},
-        upsert=True
-    )
-    db["old_scores"].insert_one({"value": score})
+def store_latest_score(score, algorithm_name="unknown"):
+    """
+    Store the latest score for a specific algorithm.
+    This keeps track of both the latest score in a structured format
+    and historical scores in a separate collection.
+    
+    Args:
+        score: The score value to store
+        algorithm_name: The name of the algorithm (CO, PSO, BCO, etc.)
+    """
+    # Retrieve the current scores document
+    settings_doc = db["settings"].find_one({"option": "latest_score"})
+    
+    if settings_doc:
+        # Update existing document
+        current_values = settings_doc.get("value", {})
+        if algorithm_name in current_values:
+            current_values[algorithm_name].append(score)
+        else:
+            current_values[algorithm_name] = [score]
+            
+        db["settings"].update_one(
+            {"option": "latest_score"},
+            {"$set": {"value": current_values}}
+        )
+    else:
+        # Create new document with initial value
+        db["settings"].insert_one({
+            "option": "latest_score", 
+            "value": {algorithm_name: [score]}
+        })
+    
+    # Also store in historical collection for tracking
+    db["old_scores"].insert_one({
+        "value": score, 
+        "algorithm": algorithm_name, 
+        "timestamp": datetime.now()
+    })
 
 @router.get("/available-spaces")
 async def get_available_spaces(

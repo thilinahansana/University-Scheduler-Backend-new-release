@@ -987,7 +987,7 @@ def neighborhood_search(solution):
             if new_solution[idx_to_move]["day"]["_id"] == day_id:
                 break
     
-    # ... other strategies remain unchanged as they don't affect subgroup scheduling
+    
 
     return new_solution
 
@@ -1107,4 +1107,9 @@ def generate_bco():
         print(f"End of iteration {iteration + 1} | Current Best Fitness = {best_fitness}")
     print("\n=== Final Best Solution ===")
     print_solution_stats(best_solution)
+    
+    # Store the latest score in the database
+    from routers.timetable_routes import store_latest_score
+    store_latest_score(best_fitness, "BC")
+    
     return best_solution

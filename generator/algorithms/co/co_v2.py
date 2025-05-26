@@ -10,7 +10,7 @@ EVAPORATION_RATE = 0.5
 ALPHA = 1
 BETA = 2
 Q = 100
-STUDENTS_PER_SUBGROUP = 40  
+STUDENTS_PER_SUBGROUP = 40
 
 # Global data holders (populated by get_data)
 days = []
@@ -757,4 +757,9 @@ def generate_co():
     
     print("\nFinal solution discovered:")
     print_solution_stats(best_solution)
+    
+    # Store the latest score in the database
+    from routers.timetable_routes import store_latest_score
+    store_latest_score(best_score, "CO")
+    
     return best_solution
