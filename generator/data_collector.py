@@ -14,7 +14,20 @@ def get_years():
 
 def get_periods():
     periods = list(db["periods_of_operation"].find())
-    return periods
+    
+    # Sort periods by name (P1, P2, etc.)
+    # Extract the numeric part from period names for proper sorting
+    def get_period_number(period):
+        # Extract numeric part from period name (e.g., 'P1' -> 1)
+        name = period.get('name', '')
+        if name.startswith('P') and name[1:].isdigit():
+            return int(name[1:])
+        return float('inf')  # Put any non-standard named periods at the end
+    
+    # Sort periods based on the extracted number
+    sorted_periods = sorted(periods, key=get_period_number)
+    
+    return sorted_periods
 
 def get_spaces():
     spaces = list(db["Spaces"].find())

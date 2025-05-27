@@ -12,9 +12,11 @@ oauth2_scheme = OAuth2PasswordBearer(tokenUrl="token")
 
 
 def get_admin_role(current_user: dict = Depends(get_current_user)):
-    if current_user["role"] not in ["admin", "faculty"]:
+    if current_user["role"] not in ["admin", "faculty" , "student"]:
         raise HTTPException(status_code=403, detail="You don't have permission to perform this action.")
     return current_user
+
+
 
 @router.get("/university", response_model=UniversityInfo)
 async def get_university_info(current_user: dict = Depends(get_admin_role)):

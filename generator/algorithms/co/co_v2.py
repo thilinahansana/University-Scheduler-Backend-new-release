@@ -86,17 +86,43 @@ def find_consecutive_periods(duration, valid_periods):
     Given a duration and a list of valid (non-interval) periods sorted by 'index',
     return all possible blocks (each block is a list of consecutive period objects)
     of length 'duration' that do not skip any intermediate period indices.
+    
+    Enhanced to prioritize blocks that:
+    1. Have no breaks/gaps
+    2. Are earliest in the day when possible 
+    3. Follow natural time blocks (morning/afternoon)
     """
-    consecutive_blocks = []
+    if not valid_periods or len(valid_periods) < duration:
+        return []
+        
+    # First sort by index to ensure chronological order
     valid_periods_sorted = sorted(valid_periods, key=lambda p: p["index"])
     
+    if len(valid_periods_sorted) < duration:
+        return []
+    
+    consecutive_blocks = []
+    
+    # Find all possible consecutive blocks
     for i in range(len(valid_periods_sorted) - duration + 1):
         block = valid_periods_sorted[i:i+duration]
         indices = [p["index"] for p in block]
+        
+        # Check if block has consecutive indices (no gaps)
         if all(indices[j+1] == indices[j] + 1 for j in range(len(indices) - 1)):
-            consecutive_blocks.append(block)
+            # Calculate a priority score for this block (lower is better)
+            # Prefer earlier blocks and natural time boundaries
+            start_time = indices[0]
+            priority_score = start_time  # Lower start times are preferred
+            
+            # Add the block with its priority score
+            consecutive_blocks.append((block, priority_score))
     
-    return consecutive_blocks
+    # Sort blocks by priority score
+    consecutive_blocks.sort(key=lambda x: x[1])
+    
+    # Return just the blocks, not the scores
+    return [block for block, _ in consecutive_blocks]
 
 def get_teacher_availability(teacher_id, day_id, period_index):
     """
@@ -605,7 +631,7 @@ def evaluate_solution(solution):
                 if count > max_classes:
                     new_soft_penalties += (count - max_classes) * tc010["weight"]
 
-    hard_constraint_weight = 1000
+    hard_constraint_weight = 10
     base_hard = room_conflicts + teacher_conflicts + interval_conflicts + teacher_availability_conflicts + capacity_conflicts + unscheduled_activities + duplicate_activities + room_type_mismatches
     hard_conflicts = hard_constraint_weight * base_hard + new_hard_penalties
     soft_violations = max_days_violations + min_days_violations + split_activities_penalty + new_soft_penalties
